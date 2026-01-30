@@ -1,0 +1,915 @@
+﻿key,en,nl,zh
+font_file,arrows.ttf,arrows.ttf,unifont-16.0.04.ttf
+button_about,about,over,关于
+button_advanced,advanced,geavanceerd,高级设置
+button_airport,airport,luchthaven,机场
+button_airspace,airspace,luchtruim,空域
+button_app,APP,,进近
+button_arrival,arrival,inkomend,进场
+button_arrivalsecond,arrival 2,inkomend 2,进场2
+button_auto,auto,auto,自动
+button_background,background,achtergrond,背景
+button_bar,bar,balk,侧边栏
+button_bgtext,bgtext,bgtext,地图注记
+button_blog,blog,blog,开发日志
+button_calm,calm,kalm,静风
+button_cancel,C,,取消
+button_captions,captions,ondertiteling,字幕
+button_circle,circle,cirkel,圆圈
+button_clear,clear,wissen,清除
+button_clearsky,clear,helder,晴朗
+button_clock,clock,klok,时钟
+button_clouds,clouds,wolken,多云
+button_coast,coast,kustlijn,海岸线
+button_colors,color,kleur,颜色
+button_controls,controls,besturing,操作设置
+button_credits,credits,credits,制作组
+button_custom,custom,aangepast,自定义
+button_dct,DCT,,直飞
+button_defaults,defaults,standaard,恢复默认
+button_departure,departure,vertrekkend,离场
+button_desel,X,,关闭
+button_deselect,deselect,deselecteer,取消选择
+button_display,display,weergave,显示
+button_endgame,end game,eindig spel,结束游戏
+button_enroute,enroute,overvliegend,飞越
+button_errors,errors,fouten,错误
+button_events,events,events,事件
+button_extra,extra,extra,额外
+button_fixed,fixed,vast,固定
+button_flowfixed,flow fixed,flow vast,流量固定
+button_flowvary,flow vary,flow variabel,流量可变
+button_font,font,lettertype,字体
+button_freqs,freqs,freqs,频率
+button_fullscreen,fullscreen,fullscreen,全屏
+button_goals,goals,doelen,目标
+button_handoff,H/O,,移交
+button_heading,heading,,航向
+button_help,help,help,帮助
+button_hold,HOLD,,等待
+button_ident,ident,ident,识别
+button_ils,ILS,,ILS
+button_import,import,importeer,导入
+button_interface,interface,interface,界面
+button_label,label,label,标签
+button_line,line,lijn,航线
+button_llz,LLZ,,LLZ
+button_lock,lock,vastzetten,锁定
+button_manual,manual,handleiding,手册
+button_menu,menu,menu,菜单
+button_nav,NAV,,导航
+button_new,new,nieuw,新建
+button_newgame,new game,nieuw spel,新游戏
+button_nodepart,no depart,geen dep,无离场
+button_noise,noise,ruis,噪音
+button_normal,normal,normaal,正常
+button_nosecond,no second,geen secund,无次要
+button_off,off,uit,关闭
+button_ok,OK,,确定
+button_on,on,aan,开启
+button_orient,orient,orient,方向
+button_pause,pause,pauze,暂停
+button_pressure,pressure,luchtdruk,气压
+button_quit,exit,afsluiten,退出
+button_radio,radio,radio,无线电
+button_randomwx,random wx,random weer,随机天气
+button_range,range,afstand,范围
+button_rate,rate,snelheid,速率
+button_readbacks,readbacks,readbacks,复诵
+button_realism,realism,realisme,真实度
+button_realtime,real time,real time,实时
+button_remove,remove,verwijder,移除
+button_replay,replay,herhaling,回放
+button_rewind,rewind,terugspoelen,回退
+button_runway,runway,baan,跑道
+button_runways,runways,banen,跑道组
+button_scenario,scenario,scenario,场景
+button_share,share,delen,分享
+button_sid,SID,,SID
+button_skillcap,skill cap,skill cap,技能上限
+button_skillfixed,skill fixed,skill vast,技能固定
+button_smooth,smooth,soepel,平滑
+button_sound,sound,geluid,声音
+button_speed,speed,snelheid,速度
+button_standard,standard,standaard,标准
+button_store,Play Store,Play Store,应用商店
+button_sweep,sweep,sweep,扫描线
+button_target,target,target,目标
+button_timer,timer,timer,计时器
+button_traffic,traffic,verkeer,交通量
+button_variable,variable,variabel,可变
+button_weather,weather,weer,天气
+button_website,website,website,网站
+button_wind,wind,wind,风
+button_zoom,zoom,,缩放
+color_black,Black,Zwarte,黑色
+color_blue,Blue,Blauwe,蓝色
+color_cyan,Cyan,Cyane,青色
+color_darkblue,Dark blue,Donkerblauwe,深蓝色
+color_darkgreen,Dark green,Donkergroene,深绿色
+color_darkgrey,Dark grey,Donkergrijze,深灰色
+color_green,Green,Groene,绿色
+color_grey,Grey,Grijze,灰色
+color_magenta,Magenta,Magenta,洋红色
+color_white,White,Witte,白色
+color_yellow,Yellow,Gele,黄色
+help_1_0,To land a plane:,Zo land je een vliegtuig:,降落飞机：
+help_1_1,Set the {menu_altitude} to {ALT},Selecteer {menu_altitude} {ALT},将{menu_altitude}设置为{ALT}
+help_1_2,Guide it towards the blue line at a small 30° angle (like the yellow arrows) by giving it {menu_heading} instructions,Stuur richting de blauwe lijn met een kleine hoek van 30掳 (zoals de gele pijlen) door middel van het geven van {menu_heading}-instructies,通过给予{menu_heading}指令，以30°小角度引导飞机朝向蓝线（如黄色箭头所示）
+help_1_3,"Then, enable {button_ils} mode so it will follow the blue line and land automatically",Activeer {button_ils}-modus zodat het vliegtuig de lijn vanzelf verder zal volgen,然后，启用{button_ils}模式，飞机将跟随蓝线并自动降落
+help_1_4,runway,baan,跑道
+help_2_1,You gain {menu_skill} points by landing planes.,Je verdient {menu_skill} punten door vliegtuigen te laten landen.,通过降落飞机获得{menu_skill}点数
+help_2_2,"Just before a plane lands, it switches to tower control and then your {menu_skill} increases.",Vlak voor de landing schakelen de vlieguigen naar de toren en dan stijgt de {menu_skill}.,飞机降落前，会切换到塔台管制，然后你的{menu_skill}会增加
+help_2_3,"The higher the {menu_skill} value, the more planes you will have to control at a time.","Hoe hoger de {menu_skill}, hoe meer vliegtuigen je tegelijkertijd moet begeleiden.",{menu_skill}值越高，你需要同时控制的飞机越多
+help_2_4,"For example, a {menu_skill} of 8.0 will result in having 8 planes in your control.",Bijvoorbeeld: bij {menu_skill} 8.0 zul je 8 vliegtuigen moeten begeleiden.,例如，{menu_skill}为8.0时，你将控制8架飞机
+help_2_5,Note: this only applies when traffic is in '{button_normal}' mode.,Maar: dit geldt alleen wanneer het verkeer op '{button_normal}' staat.,注意：这仅适用于交通处于'{button_normal}'模式时
+help_2_6,tower control,zone toren,塔台管制
+help_3_0,You lose {AMOUNT} {menu_skill} points when:,Je verliest {AMOUNT} {menu_skill} punten als:,在以下情况下失去{AMOUNT}点{menu_skill}：
+help_3_1,Plane circles overlap while altitudes differ less than {ALT},Cirkels overlappen terwijl het hoogteverschil kleiner is dan {ALT},飞机圆圈重叠且高度差小于{ALT}
+help_3_2,A plane is going around,Doorstarts gemaakt worden,飞机复飞
+help_3_3,A plane leaves the airspace (unless it's a departure flying above {ALT}),Toestellen het luchtruim verlaten (uitgezonderd departures boven {ALT}),飞机离开空域（除非是离场飞机飞行高度高于{ALT}）
+help_3_4,A plane is delayed (taking over {AMOUNT} minutes to land),Vliegtuigen er langer dan {AMOUNT} minuten over doen om te landen,飞机延误（降落时间超过{AMOUNT}分钟）
+help_4_1,The amount of {menu_skill} points you gain per landing plane depends on the {menu_skill} value you have at that moment:,De exacte hoeveelheid {menu_skill} die je per landing verdient hangt af van de {menu_skill} die je op dat moment hebt:,每次降落飞机获得的{menu_skill}点数取决于你当前的{menu_skill}值：
+help_4_2,Skill per plane,Skill per landing,每架飞机的技能
+help_4_3,"The main challenge is to get the {menu_skill} as high as you can. Alternatively, you can switch to {button_custom} traffic or {button_scenario} traffic via the {button_traffic} menu.",De uitdaging is om de {menu_skill} zo hoog mogelijk te krijgen. Maar je kunt ook switchen naar {button_custom} of {button_scenario} mode via het {button_traffic} menu.,主要挑战是将{menu_skill}提升到尽可能高。或者，你可以通过{button_traffic}菜单切换到{button_custom}交通或{button_scenario}交通。
+hint_0_1,"Hello, air traffic controller! Your task is to guide the airplanes safely to runway {RWY}.","Hallo, luchtverkeersleider! Aan jou de taak om de vliegtuigen veilig naar landingsbaan {RWY} te begeleiden.",你好，空中交通管制员！你的任务是将飞机安全引导至{RWY}跑道。
+hint_0_2,"Hello, air traffic controller! Your task is to guide the airplanes safely to the runway.","Hallo, luchtverkeersleider! Aan jou de taak om de vliegtuigen veilig naar de landingsbaan te begeleiden.",你好，空中交通管制员！你的任务是将飞机安全引导至跑道。
+hint_0_3,"For beginners this radar screen may look complicated, so a bit of help will appear here. For more help, click the {button_help} button.","Dit radarscherm ziet er misschien ingewikkeld uit, daarom verschijnt hier wat hulp. Klik op de {button_help} knop voor meer uitleg.",对于初学者来说，这个雷达屏幕可能看起来很复杂，所以这里会显示一些帮助。如需更多帮助，请点击{button_help}按钮。
+hint_0_airport_1,"Choose an airport, or reset the current game by doubletapping {AIRPORT}.","Kies een luchthaven, of reset het huidige spel door op {AIRPORT} te dubbelklikken.",选择一个机场，或双击{AIRPORT}重置当前游戏。
+hint_0_airport_2,"Choose an airport, or reset the current game by doubleclicking {AIRPORT}.","Kies een luchthaven, of reset het huidige spel door op {AIRPORT} te dubbelklikken.",选择一个机场，或双击{AIRPORT}重置当前游戏。
+hint_0_airport_3,Doubleclick {button_newgame} to reset the game. More airports available in the full version.,Dubbelklik op {button_newgame} om het spel te resetten. Meer luchthavens zijn beschikbaar in de volledige versie.,双击{button_newgame}重置游戏。完整版提供更多机场。
+hint_0_airport_4,Doubletap {button_newgame} to reset the game.,Dubbelklik op {button_newgame} om het spel te resetten.,双击{button_newgame}重置游戏。
+hint_0_circles,"For safety, make sure the circles do not overlap, or altitudes differ at least {ALT}.","Voor de veiligheid moet je ervoor zorgen dat de cirkels niet overlappen, tenzij de hoogtes minimaal {ALT} verschillen.",为了安全，确保圆圈不重叠，或高度差至少为{ALT}。
+hint_0_colors,Change the appearance of the game by toggling the color buttons.,Klik op de knoppen om de kleuren te veranderen.,通过切换颜色按钮更改游戏外观。
+hint_0_conflict_1,"Resolve the conflict: create {ALT} difference in altitude, or divert headings.","Los het conflict op: zorg voor een hoogteverschil van {ALT}, of laat ze van elkaar af vliegen.",解决冲突：创建{ALT}的高度差，或改变航向。
+hint_0_conflict_2,Resolve the conflict: create more distance behind heavy aircraft.,Los het conflict op: zorg voor meer afstand achter zware vliegtuigen.,解决冲突：在重型飞机后方保持更大距离。
+hint_0_conflict_3,Resolve the violation: make sure the plane flies above or outside the restricted area.,Los het conflict op: zorg ervoor dat vliegtuigen buiten of boven de gebieden met restricties vliegen.,解决违规：确保飞机在限制区域上方或外部飞行。
+hint_0_conflict_4,Planes should not fly into thunderstorms.,Vliegtuigen mogen niet door onweersbuien vliegen.,飞机不应飞入雷暴区。
+hint_0_customairport_1,"This is a custom airport, therefore high scores and goals are disabled.","Dit is een custom airport, daarom zijn high scores/goals uitgeschakeld.",这是自定义机场，因此高分和目标已禁用。
+hint_0_customairport_2,"Custom traffic has been enabled in current game, therefore high scores are disabled.","Customverkeer is gebruikt in dit spel, daarom zijn high scores uitgeschakeld.",当前游戏已启用自定义交通，因此高分已禁用。
+hint_0_demo,"Because this is a demo version, games/scores are not saved, and there is only one airport available.","Omdat dit een demo-versie is, wordt het spel niet opgeslagen, en is er slechts 1 vliegveld beschikbaar.",因为这是演示版，游戏/分数不会保存，且只有一个机场可用。
+hint_0_departure_1,Departures leave the airspace incorrectly if they fly at or below {ALT} when passing the boundary.,Departures verlaten het luchtruim op een verkeerde manier als ze op {ALT} of lager vliegen wanneer ze de grens passeren.,离场飞机在通过边界时如果飞行高度在{ALT}或以下，则错误离开空域。
+hint_0_departure_2,Departures leave the airspace incorrectly if they fly at or below {ALT} when passing the outer circle.,Departures verlaten het luchtruim op een verkeerde manier als ze op {ALT} of lager vliegen wanneer ze de cirkel passeren.,离场飞机在通过外圈时如果飞行高度在{ALT}或以下，则错误离开空域。
+hint_0_direct,"By dragging from a plane you can easily set a heading, or give a direct to a beacon.","Door te slepen vanaf een vliegtuig kun je gemakkelijk een heading selecteren, of een direct geven naar een baken.",通过从飞机拖动，可以轻松设置航向，或给予直飞信标的指令。
+hint_0_display,Customize display settings here.,Hier kun je de weergave van de radar veranderen.,在此自定义显示设置。
+hint_0_glideslope,"The blue circles indicate the glideslope altitudes: {ALT1}, {ALT2}, {ALT3}.","De blauwe cirkels geven de hoogte van de glideslope aan: {ALT1}, {ALT2}, {ALT3}.",蓝色圆圈表示下滑道高度：{ALT1}、{ALT2}、{ALT3}。
+hint_0_ils_1,"Guide planes to the ILS (Instrument Landing System), which is the blue line leading extending from runway.","Begeleid vliegtuigen naar het ILS (Instrument Landing System), dat wordt weergeven met de blauwe lijn in het verlengde van de landingsbaan.",引导飞机至ILS（仪表着陆系统），即从跑道延伸出的蓝线。
+hint_0_ils_2,Guide planes to the blue ILS line (Instrument Landing System) to increase your skill value.,Begeleid vliegtuigen naar het ILS (Instrument Landing System) om je skill te verhogen.,引导飞机至蓝色ILS线（仪表着陆系统）以提高技能值。
+hint_0_ils_3,"Guide the planes safely to the blue ILS path, with enough spacing between them.","Begeleid vliegtuigen veilig naar het blauwe ILS pad, met voldoende ruimte tussen de vliegtuigen.",安全引导飞机至蓝色ILS路径，保持足够间距。
+hint_0_newgame_1,"To start a new game, go to the {button_airport} menu and doubletap on an airport button.","Om een nieuw spel te starten, ga je naar het menu {button_airport} en dubbelklik je op een vliegveld.",要开始新游戏，请转到{button_airport}菜单并双击机场按钮。
+hint_0_newgame_2,"To start a new game, go to the {button_airport} menu and doubleclick on an airport button.","Om een nieuw spel te starten, ga je naar het menu {button_airport} en dubbelklik je op een vliegveld.",要开始新游戏，请转到{button_airport}菜单并双击机场按钮。
+hint_0_pause,"If you want to pause, press Esc.","Als je wilt pauzeren, druk dan op Esc.",如需暂停，请按Esc键。
+hint_0_rate,"Speech rate can be set to automatic (it will depend on traffic and sim speed), or fixed (for a constant speech rate).","Spraaksnelheid kan automatisch geregeld worden (op basis van simulatiesnelheid en verkeersdrukte), of handmatig (vaste spraaksnelheid).",语音速率可设置为自动（取决于交通和模拟速度）或固定（恒定语音速率）。
+hint_0_realism,"In this menu you can change various settings to make the game more realistic, but also harder to play.","In dit menu kun je verschillende instellingen aanpassen om het spel realistischer te maken, maar ook moeilijker om te spelen.",在此菜单中，您可以更改各种设置使游戏更真实，但也更难玩。
+hint_0_runways_1,"To open more runways, go to the {button_runways} menu and increase the {menu_runways_8} value.","Als je meer landingsbanen wilt openen, ga je naar het {button_runways} menu en verhoog je de {menu_runways_8} handmatig.",要开放更多跑道，请转到{button_runways}菜单并增加{menu_runways_8}值。
+hint_0_runways_2,You can change which runways are in use; see the {button_airport} menu.,Je kan kiezen welke banen in gebruik zijn in het menu {button_airport}.,您可以更改正在使用的跑道；参见{button_airport}菜单。
+hint_0_runways_3,"Here you can choose a runway configuration. And the higher your score, the more runways will be available.","Hier kun je een baanconfiguratie instellen. En hoe hoger je score, hoe meer banen actief zullen zijn.",在此选择跑道配置。您的分数越高，可用的跑道越多。
+hint_0_runways_4,"Here you can choose a configuration, and set the number of active runways by changing the {menu_runways_8} value.","Hier kun je een baanconfiguratie instellen, en het aantal actieve banen kun je instellen door {menu_runways_8} te veranderen.",在此选择配置，并通过更改{menu_runways_8}值设置活动跑道数量。
+hint_0_save,"When you leave the game, progress will be saved automatically.","Als je het spel afsluit, zal je voortgang vanzelf opgeslagen worden.",离开游戏时，进度将自动保存。
+hint_0_save_2,Full version has autosave and multiple airports.,"De volledige versie slaat het spel op bij afsluiten, en heeft meerdere luchthavens.",完整版具有自动保存和多个机场。
+hint_0_scenario_1,"Scenario mode is pretty difficult, as you need to land {AMOUNT} planes without mistakes.","De scenariomodus is best moeilijk, want je moet alle {AMOUNT} vliegtuigen laten landen zonder fouten te maken.",场景模式相当困难，因为您需要无错误降落{AMOUNT}架飞机。
+hint_0_scenario_2,"The scenario mode is all about trying to land all planes without making any mistakes, which is a big challenge.",In de scenariomodus draait alles om het landen van alle vliegtuigen zonder fouten te maken. Het kan een grote uitdaging zijn.,场景模式的核心是尝试无错误降落所有飞机，这是一个巨大的挑战。
+hint_0_scenario_3,"In scenario mode, the traffic is not random.",In scenariomode is het verkeer niet willekeurig.,在场景模式中，交通不是随机的。
+hint_0_score,Your {menu_score} will be equal to the highest {menu_skill} you have had in this game.,Je {menu_score} is gelijk aan de hoogste {menu_skill} die je hebt behaald in dit spel.,您的{menu_score}将等于您在本游戏中达到的最高{menu_skill}。
+hint_0_scroll,"Tip: Use scroll button to zoom or set altitude, and click to OK.","Tip: Gebruik het scrollwiel om te zoomen of de hoogte te veranderen, en klik erop voor OK.",提示：使用滚轮按钮缩放或设置高度，点击确认。
+hint_0_select_1,Tap on an airplane to select it and give it instructions. A bit of help will appear here.,"Druk op een vliegtuig om het te selecteren, en geef het instructies. Hier zal wat hulp verschijnen.",点击飞机以选择它并给予指令。此处将显示一些帮助。
+hint_0_select_2,Click on an airplane to select it and give it instructions. A bit of help will appear here.,"Klik op een vliegtuig om het te selecteren, en geef het instructies. Hier zal wat hulp verschijnen.",点击飞机以选择它并给予指令。此处将显示一些帮助。
+hint_0_skill,"The higher the {menu_skill} value, the more planes you will have to control.","Hoe hoger de {menu_skill}, hoe meer vliegtuigen je tegelijkertijd moet begeleiden.",{menu_skill}值越高，您需要控制的飞机越多。
+hint_0_sound_1,"To enable pilot speech output, set {button_sound} mode to 2 or 3.","Om de piloten te horen spreken, zet je de {button_sound}mode op 2 of 3.",要启用飞行员语音输出，将{button_sound}模式设置为2或3。
+hint_0_sound_2,"To enable pilot readback, see the {button_sound} menu and tap the {button_readbacks} button.","Om de piloten te horen antwoorden, zie het menu {button_sound} en klik op {button_readbacks}.",要启用飞行员复诵，请参见{button_sound}菜单并点击{button_readbacks}按钮。
+hint_0_sound_3,"To enable pilot readback, see the {button_sound} menu and click on the {button_readbacks} button.","Om de piloten te horen antwoorden, zie het menu {button_sound} en klik op {button_readbacks}.",要启用飞行员复诵，请参见{button_sound}菜单并点击{button_readbacks}按钮。
+hint_0_sound_4,Tap on the {button_sound} button to toggle between 3 sound modes. Tap {button_off} to mute all sounds.,Klik op de knop {button_sound} om te switchen tussen 3 geluidsmodi. Klik {button_off} om alle geluiden uit te zetten.,点击{button_sound}按钮在3种声音模式间切换。点击{button_off}静音所有声音。
+hint_0_sound_5,Click on the {button_sound} button to toggle between 3 sound modes. Click {button_off} to mute all sounds.,Klik op de knop {button_sound} om te switchen tussen 3 geluidsmodi. Klik {button_off} om alle geluiden uit te zetten.,点击{button_sound}按钮在3种声音模式间切换。点击{button_off}静音所有声音。
+hint_0_speed_1,Here you can adjust the simulation speed. For new players it's best to keep the {button_speed} at 1x ({button_realtime}).,Hier kun je de simulatiesnelheid aanpassen. Voor nieuwe spelers is het het best om {button_speed} op 1x ({button_realtime}) te houden.,在此调整模拟速度。对于新玩家，最好将{button_speed}保持在1x（{button_realtime}）。
+hint_0_speed_2,Press Esc to pause.,Druk op Esc om te pauzeren.,按Esc暂停。
+hint_0_speed_3,"Simulation speed is increased. Tap the {button_menu} button, then {button_speed}, to slow the game down.","De simulatiesnelheid is verhoogd. Klik op {button_menu}, dan {button_speed}, om het spel langzamer te maken.",模拟速度已提高。点击{button_menu}按钮，然后点击{button_speed}，以减慢游戏速度。
+hint_0_speed_4,"Simulation speed is increased. Click the {button_menu} button, then {button_speed}, to slow the game down (or press {KEY}).","De simulatiesnelheid is verhoogd. Klik op {button_menu}, dan {button_speed}, om het spel langzamer te maken (of druk op {KEY}).",模拟速度已提高。点击{button_menu}按钮，然后点击{button_speed}，以减慢游戏速度（或按{KEY}）。
+hint_0_sweep,The radar sweep setting lets you set the rate at which plane locations are updated.,De sweepinstelling van de radar bepaalt hoe vaak de locaties van vliegtuigen geupdate worden.,雷达扫描设置让您设置飞机位置更新的频率。
+hint_0_swipe,Tip: Swipe from a plane to easily set a heading.,Tip: Swipe vanaf een vliegtuig om makkelijk een heading te selecteren.,提示：从飞机滑动以轻松设置航向。
+hint_0_timer_1,The timer will run out when either {menu_timer_6} or {menu_timer_7} is at zero.,De timer zal afgelopen zijn wanneer {menu_timer_6} of {menu_timer_7} op nul komt.,当{menu_timer_6}或{menu_timer_7}为零时，计时器将结束。
+hint_0_timer_2,The timer lets you keep track of playtime and determines on what conditions the game is finished.,"De timer kan je helpen met het bijhouden van je speeltijd, of bepalen op welk moment het spel afgelopen is.",计时器让您跟踪游戏时间，并确定游戏结束的条件。
+hint_0_traffic_1,"There are 3 traffic modes. In {button_normal} mode, the amount of traffic will adapt automatically to your skill level, and you can set a high score.","Er zijn 3 verkeersmodi: In mode {button_normal} zal de hoeveelheid verkeer zich automatisch aanpassen aan je skill, en dan kun je een highscore neerzetten.",有3种交通模式。在{button_normal}模式中，交通量会自动适应您的技能水平，您可以设置高分。
+hint_0_traffic_2,"In {button_normal} mode, the amount of traffic will adapt automatically to your skill level, and you can set a high score. In {button_custom} mode, the traffic can be adjusted manually.","Er zijn 3 verkeersmodi: In mode {button_normal} zal de hoeveelheid verkeer zich automatisch aanpassen aan je skill, en dan kun je een highscore neerzetten. In mode {button_custom} kun je het verkeer handmatig instellen.",在{button_normal}模式中，交通量会自动适应您的技能水平，您可以设置高分。在{button_custom}模式中，可以手动调整交通。
+hint_0_traffic_3,"Here you can customize the amount of traffic, by selecting one of the four custom traffic modes.","Hier kun je de verkeersdrukte instellen, door 1 van de 4 modi te selecteren.",在此通过选择四种自定义交通模式之一来自定义交通量。
+hint_0_weather_1,The weather cannot be changed in {button_scenario} mode.,Het weer kan niet veranderd worden in {button_scenario} mode.,在{button_scenario}模式中无法更改天气。
+hint_0_weather_2,"Here you can set the wind direction and wind speed, enable clouds, or change the air pressure.","Hier kun je de windsnelheid en windrichting instellen, wolken toevoegen, en de luchtdruk aanpassen.",在此设置风向和风速，启用云层，或更改气压。
+hint_0_weather_3,Swipe from the {button_clouds} button to put clouds at a specific location.,Swipe vanaf de knop {button_clouds} om een wolk op een specifieke locatie te plaatsen.,从{button_clouds}按钮滑动以在特定位置放置云层。
+hint_0_weather_4,Press the {button_wind} button to set random wind direction and speed.,Druk op de knop {button_wind} om random wind aan te zetten.,按下{button_wind}按钮设置随机风向和风速。
+hint_0_workload,"If you don't like a high workload, enable {button_custom} mode in the {button_traffic} menu to limit the rate of traffic.","Als het je te druk wordt, schakel dan naar {button_custom} in het {button_traffic} menu om de verkeersstroom te verminderen.",如果您不喜欢高工作负荷，请在{button_traffic}菜单中启用{button_custom}模式以限制交通速率。
+hint_0_zoom_1,Double tap or pinch to zoom out.,Dubbelklik of gebruik twee vingers om uit te zoomen.,双击或捏合以缩小。
+hint_0_zoom_2,Double click or scroll to zoom out.,Dubbelklik of scroll om uit te zoomen.,双击或滚动以缩小。
+hint_1_above,Alright! The plane will climb out of your airspace when passing {ALT}.,Prima! Het vliegtuig zal het luchtruim uitklimmen wanneer het {ALT} passeert.,好的！飞机通过{ALT}时将爬升离开您的空域。
+hint_1_app_1,"OK, this plane is on an approach route: it descends and steers automatically to the ILS.","Ok, dit vliegtuig volgt een approachroute: het stuurt automatisch totdat het het ILS zal volgen.",好的，这架飞机在进近航路上：它会下降并自动转向ILS。
+hint_1_app_2,Approach beacon selected: press the {button_app} button to get a route towards the ILS.,Approachbaken geselecteerd: druk op {button_app} om de route naar het ILS te selecteren.,已选择进近信标：按下{button_app}按钮获取前往ILS的航路。
+hint_1_app_3,Press {button_ok} to let the plane fly the approach route to the runway.,Druk op {button_ok} om het vliegtuig de approachroute naar de landingsbaan te laten volgen.,按下{button_ok}让飞机飞向跑道的进近航路。
+hint_1_areas,Mind the minimum altitudes in certain areas.,Let op de minimumhoogtes die gelden in sommige gebieden.,注意某些区域的最低高度。
+hint_1_arrival,"OK, this plane is on an arrival route: it descends and steers automatically until the end of the route.","Ok, dit vliegtuig volgt een arrivalroute: het stuurt automatisch tot aan het einde van de route.",好的，这架飞机在进场航路上：它会下降并自动转向直到航路结束。
+hint_1_busy,This plane is not ready for approach yet; it needs more time to prepare for landing.,Dit vliegtuig is nog niet klaar voor de landing; het heeft meer tijd nodig ter voorbereiding.,这架飞机尚未准备好进近；需要更多时间准备降落。
+hint_1_capture,Guide the plane to the blue ILS line by giving it {menu_headings}. Then activate {button_ils} mode to make the plane capture the blue line.,Begeleid het vliegtuig naar de blauwe ILS-lijn door het {menu_headings} te geven. Daarna activeer je {button_ils}-modus om het vliegtuig de blauwe lijn te laten volgen.,通过给予{menu_headings}引导飞机至蓝色ILS线。然后激活{button_ils}模式使飞机捕获蓝线。
+hint_1_clearance_1,Press {button_ok} (or click scroll wheel) to give the clearance to the plane.,Druk op {button_ok} (of klik op het scrollwiel) om de klaring aan het vliegtuig te geven.,按下{button_ok}（或点击滚轮）给予飞机许可。
+hint_1_clearance_2,Press {button_ok} to give the climb clearance to the plane.,Druk op {button_ok} om je toestemming om te klimmen aan het vliegtuig te geven.,按下{button_ok}给予飞机爬升许可。
+hint_1_climb_1,Let this departure climb to {ALT} when it's safe to do so.,Laat dit vliegtuig klimmen naar {ALT} wanneer dat veilig kan.,当安全时，让这架离场飞机爬升至{ALT}。
+hint_1_climb_2,Let this departure climb to {ALT}.,Laat dit vliegtuig klimmen naar {ALT}.,让这架离场飞机爬升至{ALT}。
+hint_1_climb_3,Let this departure climb to {ALT}. That's all you have to do for departures.,Laat dit vliegtuig klimmen naar {ALT}. Dat is alles wat je voor departures hoeft te doen.,让这架离场飞机爬升至{ALT}。这就是您需要为离场飞机做的全部。
+hint_1_climb_4,This departing plane needs to climb above {ALT} before it reaches the airspace boundary.,Dit vertrekkende vliegtuig moet klimmen tot boven de {ALT} voordat het de rand van het luchtruim bereikt.,这架离场飞机需要在到达空域边界前爬升至{ALT}以上。
+hint_1_closed,This plane is diverting due to airspace closure. No action required.,Dit vliegtuig wijkt uit omdat het luchtruim gesloten is. Geen actie nodig.,这架飞机因空域关闭而改航。无需操作。
+hint_1_danger_alt,"This plane is in danger: create {ALT} difference in altitude, or divert headings.","Dit vliegtuig is in gevaar: zorg voor {ALT} verschil in hoogte, of stuur de vliegtuigen van elkaar af.",这架飞机处于危险中：创建{ALT}的高度差，或改变航向。
+hint_1_danger_area,This plane is flying in a restricted airspace. Climb or turn around.,Dit vliegtuig vliegt in een gebied met restricties. Laat het klimmen of keer het om.,这架飞机在限制空域中飞行。爬升或转向。
+hint_1_danger_cloud,This plane is flying through a thunderstorm. Avoid these clouds.,Dit vliegtuig vliegt door onweerswolken heen. Vermijd het vliegen door wolken.,这架飞机正飞过雷暴区。避开这些云层。
+hint_1_danger_wake,This plane is in danger due to wake turbulence caused by a heavy preceding aircraft.,Dit vliegtuig is in gevaar als gevolg van turbulentie achter een zwaar vliegtuig.,这架飞机因前方重型飞机引起的尾流湍流而处于危险中。
+hint_1_descend_1,Set the {menu_altitude} to about {ALT} metres to make an ILS approach possible.,Selecteer een {menu_altitude} van ongeveer {ALT} meter om een ILS nadering mogelijk te maken.,将{menu_altitude}设置为约{ALT}米以使ILS进近成为可能。
+hint_1_descend_2,Set the {menu_altitude} to about {ALT} to make an ILS approach possible.,Selecteer een {menu_altitude} van ongeveer {ALT} om een ILS nadering mogelijk te maken.,将{menu_altitude}设置为约{ALT}以使ILS进近成为可能。
+hint_1_descend_3,Give this arriving plane the instruction to descend: lower its {menu_altitude} to prepare the plane for a landing on runway {RWY}.,Geef dit inkomende vliegtuig de instructie om te dalen: verlaag de {menu_altitude} om het vliegtuig voor te bereiden op een landing op baan {RWY}.,给予这架进场飞机下降指令：降低其{menu_altitude}以为在{RWY}跑道降落做准备。
+hint_1_descend_4,Give this arriving plane the instruction to descend.,Geef dit inkomende vliegtuig de instructie om te dalen.,给予这架进场飞机下降指令。
+hint_1_deviate,You can deviate this plane from its standard route by giving it a heading.,Je kunt dit vliegtuig van de standaardroute laten afwijken door het een heading te geven.,您可以通过给予航向来使这架飞机偏离标准航路。
+hint_1_direct,"{DCT}, or direct mode, lets the plane fly to the selected beacon.","{DCT}, of direct modus, laat het vliegtuig naar het geselecteerde baken vliegen.",{DCT}，或直飞模式，让飞机飞向选定的信标。
+hint_1_distance,"Plane is heading for the localizer, but the distance to the runway may be too short for a safe approach.","Het vliegtuig nadert de localizer, maar de afstand tot the landingsbaan kan te kort zijn voor een veilige landing.",飞机正飞向定位器，但到跑道的距离可能太短，无法安全进近。
+hint_1_divert,This departing plane left has the airspace incorrectly.,Dit vliegtuig heeft het luchtruim onjuist verlaten.,这架离场飞机错误地离开了空域。
+hint_1_diverted,"Oops, this plane has left the airspace.","Oeps, dit vliegtuig heeft het luchtruim verlaten.",糟糕，这架飞机已离开空域。
+hint_1_earlyhandoff,"This plane is handed off early, but separation is still your responsibility until {ALT}.","Dit vliegtuig is al heel snel overgezet, maar separatie is nog steeds jouw verantwoordelijkheid tot {ALT}.",这架飞机过早移交，但直到{ALT}前，间隔仍然是您的责任。
+hint_1_enable_ils,"To make the plane follow the blue line, enable {button_ils}, and press {button_ok}.","Om het vliegtuig de blauwe lijn te laten volgen, activeer je {button_ils}, en daarna klik je op {button_ok}.",要使飞机跟随蓝线，请启用{button_ils}，然后按下{button_ok}。
+hint_1_enable_sid_1,Enable {button_sid} mode to make this departing plane leave the airspace via its departure point.,Schakel {button_sid} mode in voordat het vliegtuig het luchtruim verlaat via het waypoint.,启用{button_sid}模式使这架离场飞机通过其离场点离开空域。
+hint_1_enable_sid_2,Activate {button_sid} mode before this departing plane leaves the airspace.,Schakel {button_sid} mode in voordat het vliegtuig het luchtruim verlaat.,在这架离场飞机离开空域前激活{button_sid}模式。
+hint_1_enroute,This plane is cruising above your airspace. No action required.,Dit vliegtuig vliegt over jouw luchtruim heen. Geen actie nodig.,这架飞机在您的空域上方巡航。无需操作。
+hint_1_estab_1,"OK, this plane is fully established on the ILS and will be automatically handed over to the tower shortly.","Ok, dit vliegtuig zit helemaal op het ILS en zal straks automatisch naar de toren overschakelen.",好的，这架飞机已完全建立ILS，不久将自动移交给塔台。
+hint_1_estab_2,"OK, this plane may already be handed off to the tower on frequency {FREQ}.","Ok, dit vliegtuig mag alvast naar de toren worden overgezet op frequencie {FREQ}.",好的，这架飞机可能已通过频率{FREQ}移交给塔台。
+hint_1_estab_3,"OK, this plane may already be handed off to the tower by pressing the {button_handoff} button.","Ok, dit vliegtuig mag alvast naar de toren worden overgezet door op {button_handoff} te klikken.",好的，这架飞机可能已通过按下{button_handoff}按钮移交给塔台。
+hint_1_estab_4,"OK, this plane has intercepted the localizer and waits to capture the glideslope.","Ok, dit vliegtuig heeft de localizer onderschept en het wacht totdat het ook de glideslope zal onderscheppen.",好的，这架飞机已截获定位器，等待捕获下滑道。
+hint_1_fuel,"Oops, this plane is diverting due to low fuel.","Oeps, dit vliegtuig wijkt uit vanwege te weinig brandstof.",糟糕，这架飞机因燃油不足而改航。
+hint_1_goaround,This plane could not land; it had to go-around. Turn it around and try again.,Dit vliegtuig kon niet landen; het moest een doorstart maken. Draai het vliegtuig om en probeer het opnieuw.,这架飞机无法降落；必须复飞。转向并重试。
+hint_1_guide,"Guide this arrival to the ILS (blue line), then activate {button_ils} mode to capture it.","Begeleid dit inkomende vliegtuig naar het ILS (blauwe lijn), en activeer vervolgens {button_ils}-modus om de lijn te onderscheppen.",引导这架进场飞机至ILS（蓝线），然后激活{button_ils}模式以捕获它。
+hint_1_handoff_1,Alright! This departing plane is handed off to {ATC}.,Prima! Deze uitgaande vlucht is overgezet naar {ATC}.,好的！这架离场飞机已移交给{ATC}。
+hint_1_handoff_2,Alright! This departing plane is handed off.,Prima! Deze uitgaande vlucht is overgezet.,好的！这架离场飞机已移交。
+hint_1_handoff_3,Alright! The plane may already be handed off to {ATC} on frequency {FREQ}.,Prima! Het vliegtuig mag alvast overgezet worden naar {ATC} op frequencie {FREQ}.,好的！这架飞机可能已通过频率{FREQ}移交给{ATC}。
+hint_1_handoff_4,Alright! The plane may already be handed off to {ATC} by pressing {button_handoff}.,Prima! Het vliegtuig mag alvast overgezet worden naar {ATC} door op {button_handoff} te klikken.,好的！这架飞机可能已通过按下{button_handoff}移交给{ATC}。
+hint_1_handoff_5,Alright! The plane may already be handed off to the next controller by pressing {button_handoff}.,Prima! Het vliegtuig mag alvast overgezet worden naar de volgende luchtverkeersleider door op {button_handoff} te klikken.,好的！这架飞机可能已通过按下{button_handoff}移交给下一个管制员。
+hint_1_handoff_correct,Alright! This plane is handed off to the tower.,Prima! Dit vliegtuig is overgezet naar de toren.,好的！这架飞机已移交给塔台。
+hint_1_handoff_correct_2,Alright! This plane is handed off to the tower and you scored skill points.,Prima! Dit vliegtuig is overgezet naar de toren en jij hebt skillpunten verdiend.,好的！这架飞机已移交给塔台，您获得了技能点数。
+hint_1_headings,Guide this arrival to the {button_ils} (the blue line) by giving {menu_heading} instructions.,Begeleid dit vliegtuig naar het {button_ils} (de blauwe lijn) door middel van {menu_heading}-instructies.,通过给予{menu_heading}指令引导这架进场飞机至{button_ils}（蓝线）。
+hint_1_howtoland,"To land on the runway, the plane has to capture the blue ILS line. Like in real life, intercept the ILS line at a shallow angle.","Om te landen moet het vliegtuig de blauwe ILS-lijn onderscheppen. Zoals in het echt, moet dat onder een kleine hoek gebeuren.",要在跑道上降落，飞机必须捕获蓝色ILS线。就像现实中一样，以小角度截获ILS线。
+hint_1_ils_angle,Wait with the approach clearance until the plane is on a correct intercept heading.,Wacht met het geven van de ILS-klaring totdat het vliegtuig op een correcte heading vliegt om de lijn te onderscheppen.,等待进近许可，直到飞机处于正确的截获航向。
+hint_1_ils_arrows,"To land, the plane needs to head towards the blue line like the yellow arrows.",Om het vliegtuig te laten landen moet het richting de blauwe lijn vliegen zoals de gele pijlen.,要降落，飞机需要像黄色箭头一样朝向蓝线飞行。
+hint_1_ils_button,"Before the plane crosses the blue line, tap the {button_ils} button, so the plane will follow the line to the runway.","Voordat het vliegtuig de blauwe lijn kruist, klik je op de {button_ils}-knop, zodat het vliegtuig de lijn zal volgen naar de landingsbaan.",在飞机穿越蓝线前，点击{button_ils}按钮，使飞机跟随该线飞向跑道。
+hint_1_ils_button_2,"Before the plane crosses the blue line, click on the {button_ils} button, so the plane will follow the line to the runway.","Voordat het vliegtuig de blauwe lijn kruist, klik je op de {button_ils}-knop, zodat het vliegtuig de lijn zal volgen naar de landingsbaan.",在飞机穿越蓝线前，点击{button_ils}按钮，使飞机跟随该线飞向跑道。
+hint_1_ils_clearance,Press {button_ok} to give the approach clearance. Make sure to intercept the blue line at a shallow angle.,Klik op {button_ok} om de ILS-klaring te geven. Zorg ervoor dat de blauwe lijn onder een kleine hoek wordt onderschept.,按下{button_ok}给予进近许可。确保以小角度截获蓝线。
+hint_1_ils_dots,The blue dots on the blue line indicate the maximum altitude to intercept the ILS glide path. Lower altitudes are fine.,De blauwe cirkels geven de maximale onderscheppingshoogte van de ILS glideslope aan. Lager mag ook.,蓝线上的蓝点表示截获ILS下滑道的最大高度。较低的高度也可以。
+hint_1_ils_line,The ILS line is the approach path towards the runway.,De ILS-lijn is het naderingspad naar de landingsbaan.,ILS线是朝向跑道的进近路径。
+hint_1_ils_mode,Enable {button_ils} mode when the plane is on a correct intercept heading (like the yellow arrows). Enabling {button_ils} basically means: cleared approach.,Activeer {button_ils}-modus wanneer het vliegtuig onder de juiste hoek naar de lijn vliegt (zoals de gele pijlen). Het activeren van {button_ils} betekent: toestemming om de baan te naderen.,当飞机处于正确的截获航向时（如黄色箭头），启用{button_ils}模式。启用{button_ils}基本上意味着：许可进近。
+hint_1_ils_unable,"Plane is cleared for approach, but the intercept angle is too big, so it's unable to capture the blue line.","Het vliegtuig heeft toestemming om de baan te naderen, maar de onderscheppingshoek is te groot, dus kan de blauwe lijn niet gevolgd worden.",飞机已获准进近，但截获角度太大，无法捕获蓝线。
+hint_1_ils_unable_2,"Plane is cleared for approach, but the blue ILS line is too far away, or the intercept angle is too big.","Het vliegtuig heeft toestemming om de baan te naderen, maar de blauwe ILS lijn is te ver weg, of de onderscheppingshoek is te groot.",飞机已获准进近，但蓝色ILS线太远，或截获角度太大。
+hint_1_justtakenoff,"This departing plane has just taken off, and is currently controlled by the tower. Wait until it reaches {ALT}.","Dit vliegtuig is zojuist opgestegen, en staat in verbinding met de toren. Wacht tot het {ALT} bereikt.",这架离场飞机刚起飞，目前由塔台控制。等待直到它到达{ALT}。
+hint_1_keyboard,"Press Enter to apply the instruction(s), or Backspace to cancel.","Druk op Enter om de instructie(s) toe te passen, of Backspace om te annuleren.",按Enter应用指令，或按Backspace取消。
+hint_1_leaveholding_1,Press {button_ok} to leave the holding pattern.,Druk op {button_ok} om de holding te verlaten.,按下{button_ok}离开等待航线。
+hint_1_leaveholding_2,The plane will leave the holding after flying over the fix.,Het vliegtuig zal de holding verlaten nadat het over de fix is gevlogen.,飞机飞越定位点后将离开等待。
+hint_1_leaveholding_3,"Note that inbound planes will enter at {ALT} or higher, and may conflict with this holding plane.","Merk op dat binnenkomende vluchten het luchtruim binnenvliegen op {ALT} of hoger, en dat kan conflicteren met dit vliegtuig in de holding.",注意进场飞机将在{ALT}或更高高度进入，可能与这架等待飞机冲突。
+hint_1_leaveholding_4,This plane is flying a holding pattern. Note that this can cause delays.,Dit vliegtuig vliegt in een holding. Merk op dat dit vertragingen kan veroorzaken.,这架飞机正在飞等待航线。注意这可能导致延误。
+hint_1_leaveholding_5,This plane is flying a holding pattern. Click the {button_hold} button to deactivate hold mode.,Dit vliegtuig vliegt in een holding. Klik op {button_hold} om de holding modus te deactiveren.,这架飞机正在飞等待航线。点击{button_hold}按钮停用等待模式。
+hint_1_leaveholding_6,The holding mode should be avoided to prevent delays.,"De holding modus moet zo veel mogelijk vermeden worden, om vertragingen te voorkomen.",应避免等待模式以防止延误。
+hint_1_light,This light departure only needs to climb to {ALT}.,Dit kleine vliegtuigje hoeft maar tot {ALT} te klimmen.,这架轻型离场飞机只需爬升至{ALT}。
+hint_1_light_climbed,Alright! The plane will leave the airspace at the boundary.,Prima! Dit vliegtuig zal het luchtruim netjes verlaten.,好的！飞机将在边界处离开空域。
+hint_1_light_handoff_1,"When this light plane is near the boundary of your airspace, you may hand it off to {ATC} on frequency {FREQ}.","Wanneer dit kleine vliegtuigje de rand van het luchtruim nadert, kun je het naar {ATC} overzetten op frequencie {FREQ}.",当这架轻型飞机接近您的空域边界时，您可以通过频率{FREQ}将其移交给{ATC}。
+hint_1_light_handoff_2,"When this light plane is near the boundary of your airspace, you may press {button_handoff} to hand it over.","Wanneer dit kleine vliegtuigje de rand van het luchtruim nadert, kun je het overzetten door op {button_handoff} te klikken.",当这架轻型飞机接近您的空域边界时，您可以按下{button_handoff}移交它。
+hint_1_llz,Plane is cleared for the localizer only. Press the {button_llz} button again to give the approach clearance.,Het vliegtuig heeft toestemming om alleen de localizer te volgen. Druk op {button_llz} om de approachklaring te geven.,飞机仅获准跟随定位器。再次按下{button_llz}按钮给予进近许可。
+hint_1_llz_only,Plane is cleared for the localizer only. Press the {button_llz} button again to give the approach clearance.,Het vliegtuig heeft toestemming om alleen de localizer te volgen. Druk op {button_llz} om de approachklaring te geven.,飞机仅获准跟随定位器。再次按下{button_llz}按钮给予进近许可。
+hint_1_loc_try,"OK, this plane is trying to intercept the ILS localizer.","Ok, dit vliegtuig probeert de ILS-lijn de volgen.",好的，这架飞机正尝试截获ILS定位器。
+hint_1_lowdep,"This aircraft will stay at {ALT}, so keep it separated from other planes until it crosses the boundary.","Dit vliegtuig zal op {ALT} blijven vliegen, dus geef het voldoende ruimte totdat het het luchtruim verlaat.",这架飞机将保持在{ALT}，因此在它穿越边界前保持与其他飞机的间隔。
+hint_1_nav,"OK, this plane is flying a route, it steers automatically but is not cleared to descend yet.","Ok, dit vliegtuig volgt een route: het stuurt automatisch maar heeft nog geen toestemming om te dalen.",好的，这架飞机正在飞航路，它会自动转向但尚未获准下降。
+hint_1_ok_command,"Press {button_ok} or click scroll wheel to apply the instruction(s), or press {button_cancel} to cancel.","Druk op {button_ok} of klik op het scrollwiel om de instructie(s) toe te passen, of druk op {button_cancel} om te annuleren.",按下{button_ok}或点击滚轮应用指令，或按下{button_cancel}取消。
+hint_1_ok_command_2,"Press the {button_ok} button to apply the instruction(s), or press {button_cancel} to cancel.","Druk op {button_ok} om de instructie(s) toe te passen, of druk op {button_cancel} om te annuleren.",按下{button_ok}按钮应用指令，或按下{button_cancel}取消。
+hint_1_ok_sid,Press {button_ok} to give the {button_sid} clearance.,Druk op {button_ok} om de {button_sid} klaring te geven.,按下{button_ok}给予{button_sid}许可。
+hint_1_onrunway,This departing plane is still on the runway. Wait until it reaches {ALT}.,Dit vliegtuig rijdt nog op de startbaan. Wacht tot het {ALT} bereikt.,这架离场飞机仍在跑道上。等待直到它到达{ALT}。
+hint_1_press_ok,Press the {button_ok} button to apply the instruction.,Klik op {button_ok} om de instructie aan het vliegtuig te geven.,按下{button_ok}按钮应用指令。
+hint_1_route,"OK, the plane follows the route to the ILS.","Ok, dit vliegtuig volgt de route naar het ILS.",好的，飞机跟随航路至ILS。
+hint_1_rwy_change,Plane is cleared for approach but the runway change has not been completed yet.,Het vliegtuig heeft toestemming om de baan te naderen maar de baanwisseling is nog niet voltooid.,飞机已获准进近但跑道变更尚未完成。
+hint_1_speed,Changing the speed is not required. Departures increase their speed automatically.,De snelheid aanpassen is niet nodig. Departures verhogen hun snelheid vanzelf.,无需更改速度。离场飞机会自动增加速度。
+hint_1_steep,"Plane is heading for the localizer, but at a steep angle: the angle to the runway heading should ideally be 30 degrees or less.","Het vliegtuig nadert de localizer, maar het vliegt onder een te grote hoek: de hoek met een landingsbaan zou eigenlijk 30 graden of minder moeten zijn.",飞机正飞向定位器，但角度太大：与跑道航向的角度理想情况下应为30度或更小。
+hint_1_too_high_1,"This plane is handed off to the tower, but it may go-around soon, because it is too high.","Dit vliegtuig is overgezet naar de toren, maar het kan straks een doorstart maken, want het vliegt te hoog.",这架飞机已移交给塔台，但可能很快复飞，因为它太高了。
+hint_1_too_high_2,"Plane is too high! Cancel the {button_ils} clearance, and give it a new line-up so the plane has more time to reach its instructed altitude.","Het vliegtuig is te hoog! Annuleer de {button_ils} klaring, en geef het een nieuwe line-up zodanig dat het vliegtuig meer tijd heeft om de geselecteerde hoogte te bereiken.",飞机太高了！取消{button_ils}许可，并给予新的航线，使飞机有更多时间达到指定高度。
+hint_1_too_high_3,"Plane is too high! Cancel the {button_ils} clearance, and give it a new line-up with more distance to the runway.","Het vliegtuig is te hoog! Annuleer de {button_ils} klaring, en geef het een nieuwe line-up met meer afstand tot de landingsbaan.",飞机太高了！取消{button_ils}许可，并给予新的航线，增加与跑道的距离。
+hint_1_too_high_4,"Plane is heading for the localizer, but it is currently too high for the glideslope.","Het vliegtuig nadert de localizer, maar het is op dit moment te hoog voor de glideslope.",飞机正飞向定位器，但目前对于下滑道来说太高了。
+hint_1_too_high_5,"Plane is heading for the localizer, but at this distance it is too high for the glideslope.","Het vliegtuig nadert de localizer, maar op deze afstand van de baan is het te hoog voor de glideslope.",飞机正飞向定位器，但在这个距离上对于下滑道来说太高了。
+hint_1_turn_final,"Turn the plane towards the blue line, like the yellow arrows, then press {button_ok}.","Stuur het vliegtuig richting de blauwe lijn, zoals de gele pijlen, en klik dan op {button_ok}.",将飞机转向蓝线，如黄色箭头所示，然后按下{button_ok}。
+hint_1_wait,This arriving plane is not yet in your control. Wait until it enters your airspace.,Dit inkomende vliegtuig is nog niet onder jouw controle. Wacht totdat het jouw luchtruim binnenvliegt.,这架进场飞机尚未在您的控制下。等待直到它进入您的空域。
+hint_1_waiting_loc,"OK, this plane is waiting to intercept the ILS localizer.","Ok, het vliegtuig wacht op het onderscheppen van de localizer.",好的，这架飞机正在等待截获ILS定位器。
+hint_1_wake_1,Note that heavy planes cause wake turbulence behind them: see the orange arcs indicating the required distance to the next plane.,Merk op dat zware toestellen turbulentie veroorzaken achter het toestel: zie de oranje boog die de minimale afstand aangeeft die het volgende vliegtuig moet aanhouden.,注意重型飞机会在后方引起尾流湍流：参见橙色弧线指示与下一架飞机所需的距离。
+hint_1_wake_2,Note that superheavy planes cause wake turbulence behind them: see the orange arcs indicating the required distance to the next plane.,Merk op dat superzware toestellen turbulentie veroorzaken achter het toestel: zie de oranje boog die de minimale afstand aangeeft die het volgende vliegtuig moet aanhouden.,注意超重型飞机会在后方引起尾流湍流：参见橙色弧线指示与下一架飞机所需的距离。
+hint_1_yellow_arrows,The yellow arrows are examples of correct ILS intercept headings.,De gele pijlen zijn voorbeelden van correcte hoeken om de ILS-lijn te onderscheppen.,黄色箭头是正确ILS截获航向的示例。
+hint_1_yellow_arrows_2,The yellow arrows indicate correct 30 degree ILS intercept headings.,De gele pijlen geven correcte hoeken van 30 graden aan waarop de vliegtuigen richting de landingsbaan moeten vliegen.,黄色箭头指示正确的30度ILS截获航向。
+hint_1_yellow_arrows_3,"Intercept the blue ILS approach path, like the yellow arrows, by giving {menu_heading} instructions to the plane.","Onderschep de blauwe ILS-lijn die op de landingsbaan uitkomt, zoals de gele pijlen, door middel van {menu_heading}-instructies.",通过给予{menu_heading}指令，像黄色箭头一样截获蓝色ILS进近路径。
+hint_2_altitude_1,Tip: you can also change the altitude by scrolling the mouse wheel.,Tip: je kan de hoogte ook instellen door te scrollen met het muiswiel.,提示：您也可以通过滚动鼠标滚轮来更改高度。
+hint_2_app_select,Approach beacon selected: click the {button_app} button to make the plane follow a route.,Approachbaken geselecteerd: druk op {button_app} om het vliegtuig een route te laten volgen.,已选择进近信标：点击{button_app}按钮使飞机跟随航路。
+hint_2_cancel_1,Canceled unapplied instructions. Tip: press {KEY} to change mouse control settings.,De instructie is geannuleerd. Tip: druk op {KEY} om de muisbediening te veranderen.,已取消未应用的指令。提示：按{KEY}更改鼠标控制设置。
+hint_2_cancel_2,Canceled unapplied instructions.,De instructie is geannuleerd.,已取消未应用的指令。
+hint_2_climb_1,Enable {button_sid} mode to allow further climb.,Activeer {button_sid}-modus om de hoogte te kunnen verhogen.,启用{button_sid}模式以允许进一步爬升。
+hint_2_climb_2,This small airplane cannot climb higher.,Dit kleine vliegtuigje kan niet hoger klimmen.,这架小型飞机无法爬升更高。
+hint_2_closed_1,Airspace is closed.,Het luchtruim is gesloten.,空域已关闭。
+hint_2_closed_2,"Airspace is closed. To open, go to the {button_traffic} menu, or start a new game in the {button_airport} menu.","Het luchtruim is gesloten. Om het te openen, ga je naar het menu {button_traffic}, of start je een nieuw spel in het menu {button_airport}.",空域已关闭。要开放，请转到{button_traffic}菜单，或在{button_airport}菜单中开始新游戏。
+hint_2_closed_3,"Airspace is closed. To open, go to the {button_traffic}, or start a new game in the {button_airport} menu ({KEY}).","Het luchtruim is gesloten. Om het te openen, ga je naar het menu {button_traffic}, of start je een nieuw spel in het menu {button_airport} ({KEY}).",空域已关闭。要开放，请转到{button_traffic}菜单，或在{button_airport}菜单中开始新游戏（{KEY}）。
+hint_2_closed_4,"Airspace is closed. To open, go to the {button_traffic} menu, or start a new game.","Het luchtruim is gesloten. Om het te openen, ga je naar het menu {button_traffic}, of start je een nieuw spel.",空域已关闭。要开放，请转到{button_traffic}菜单，或开始新游戏。
+hint_2_custom_1,Tip: select {button_custom} mode in the {button_traffic} menu to adjust the amount of traffic.,Tip: selecteer {button_custom}-modus in het menu {button_traffic} om de verkeersdrukte aan te passen.,提示：在{button_traffic}菜单中选择{button_custom}模式以调整交通量。
+hint_2_delay_1,"A plane failed to land within 30 minutes after it entered the airspace, therefore it is classified as delayed.","Een vliegtuig is er niet in geslaagd om binnen 30 minuten te landen, en daarom is het geclassificeerd als vertraagd.",一架飞机在进入空域后30分钟内未能降落，因此被分类为延误。
+hint_2_deselect,Plane deselected.,Vliegtuig gedeselecteerd.,飞机已取消选择。
+hint_2_destination_1,A plane went around due to an incorrect destination; only planes with {TAG} tag may land at that airport.,Een vliegtuig maakte een doorstart omdat het de verkeerde bestemming naderde: alleen vliegtuigen met {TAG}-label mogen op die bestemming landen.,一架飞机因目的地错误而复飞；只有带有{TAG}标签的飞机可以在该机场降落。
+hint_2_destination_2,A plane went around due to an incorrect destination; planes with {TAG} tag may not land at the main airport.,Een vliegtuig maakte een doorstart omdat het de verkeerde bestemming naderde: vliegtuigen met {TAG}-label mogen alleen op de hoofdluchthaven landen.,一架飞机因目的地错误而复飞；带有{TAG}标签的飞机不能在主机场降落。
+hint_2_direct_1,Direct mode off; fly on a heading.,Direct-modus uit: het vliegtuig zal de huidige koers aanhouden.,直飞模式关闭；按航向飞行。
+hint_2_direct_2,Direct to the point {FIX}.,Direct naar het punt {FIX} vliegen.,直飞至点{FIX}。
+hint_2_divert_1,"Oops, a departing plane has left the airspace at a too low altitude. The skill value is reduced by 0.5 points (diversion).","Oeps, een vertrekkend vliegtuig heeft het luchtruim verlaten op een te lage hoogte. De skill is verlaagd met 0.5 punten.",糟糕，一架离场飞机以过低高度离开了空域。技能值减少0.5分（改航）。
+hint_2_divert_2,"Oops, an arriving plane has left the airspace. The skill value is reduced by 0.5 points (diversion).","Oeps, een inkomend vliegtuig heeft het luchtruim verlaten. De skill is verlaagd met 0.5 punten.",糟糕，一架进场飞机离开了空域。技能值减少0.5分（改航）。
+hint_2_expedite_1,Expedite climb/descent mode: increase vertical speed.,Extra snel klimmen/dalen.,加速爬升/下降模式：增加垂直速度。
+hint_2_expedite_2,Normal rate of climb/descent.,Normaal klimmen/dalen.,正常爬升/下降速率。
+hint_2_failed_to_load,Failed to load,Laden mislukt,加载失败
+hint_2_goaround_1,A plane is going around because it was flying too high to make a landing via the glideslope.,Een vliegtuig heeft een doorstart gemaakt omdat het te hoog boven de glideslope vloog en daarom niet kon landen.,一架飞机正在复飞，因为它飞得太高，无法通过下滑道降落。
+hint_2_goaround_2,A plane is going around because the runway is still occupied by another landing plane.,Een vliegtuig heeft een doorstart gemaakt omdat de landingsbaan nog bezet was door een ander vliegtuig.,一架飞机正在复飞，因为跑道仍被另一架降落飞机占用。
+hint_2_goaround_3,"A plane is going around. To avoid this, let planes capture the ILS line farther away from the runway.",Een vliegtuig heeft een doorstart gemaakt. Om dit te voorkomen kun je vliegtuigen op een grotere afstand van de landingsbaan de ILS-lijn laten onderscheppen.,一架飞机正在复飞。为避免这种情况，让飞机在离跑道更远处捕获ILS线。
+hint_2_handoff_1,Well done! A plane on final approach switched to tower control.,Goed gedaan! Een vliegtuig dat de baan naderde is overgeschakeld naar de toren.,做得好！一架在最后进近的飞机已切换至塔台控制。
+hint_2_handoff_2,"Well done! A plane on final approach switched to tower control, and you scored skill points.","Goed gedaan! Een vliegtuig dat de baan naderde is overgeschakeld naar de toren, en jij scoort skillpunten.",做得好！一架在最后进近的飞机已切换至塔台控制，您获得了技能点数。
+hint_2_handoff_3,"Alright! Another plane switched to the tower, so your skill level has increased.","Prima! Opnieuw is een vliegtuig naar de toren overgeschakeld, dus je skill is weer omhoog gegaan.",好的！又一架飞机切换至塔台，因此您的技能水平提高了。
+hint_2_handoff_4,"Alright! Your skill level increased again, so the amount of traffic will rise as well.","Prima! Je skill is weer gestegen, dus de hoeveelheid verkeer zal ook toenemen.",好的！您的技能水平再次提高，因此交通量也会增加。
+hint_2_handoff_5,"That handoff was a bit early; this may be risky if there are other planes nearby, because you cannot give it instructions anymore.","Die overschakeling was een beetje vroeg; dat kan risicovol zijn als er andere vliegtuigen in de buurt zijn, want je kan het nu geen instructies meer geven.",那次移交有点早；如果附近有其他飞机可能会有风险，因为您无法再给予它指令。
+hint_2_heading_1,Heading selected; {button_sid} mode is now deactivated and altitude setting is lowered.,Heading geselecteerd: {button_sid}-modus is nu gedeactiveerd en de hoogte is verlaagd.,已选择航向；{button_sid}模式现已停用，高度设置已降低。
+hint_2_heading_2,Heading selected; {button_sid} mode is now deactivated.,Heading geselecteerd: {button_sid}-modus is nu gedeactiveerd.,已选择航向；{button_sid}模式现已停用。
+hint_2_heading_3,Plane heads automatically towards the runway. Deactivate {button_ils} mode to allow heading adjustments.,Het vliegtuig stuurt automatisch richting de landingsbaan. Deactiveer {button_ils}-modus om de Heading te kunnen veranderen.,飞机自动朝向跑道飞行。停用{button_ils}模式以允许航向调整。
+hint_2_heading_4,"Plane will leave the holding after flying over the fix, unless {button_hold} mode is deactivated first.","Het vliegtuig zal de holding verlaten nadat het over de fix is gevlogen, tenzij de {button_hold}-modus eerst wordt gedeactiveerd.",飞机飞越定位点后将离开等待，除非先停用{button_hold}模式。
+hint_2_hold_1,Holding mode: hold at current position.,Holding-modus: het vliegtuig zal rondjes vliegen op de huidige positie.,等待模式：在当前位置等待。
+hint_2_hold_2,Hold mode off; fly on a heading.,Holding-modus uit: het vliegtuig zal op een vaste koers door blijven vliegen.,等待模式关闭；按航向飞行。
+hint_2_ils_1,"To make planes follow the blue line to the runway, you need to enable {button_ils} mode.",Om te zorgen dat vliegtuigen de blauwe lijn naar de landingsbaan volgen moet je de {button_ils}-modus activeren.,要使飞机跟随蓝线至跑道，您需要启用{button_ils}模式。
+hint_2_ils_2,ILS* mode: cross one localizer and intercept the next one.,ILS*-modus: het vliegtuig zal de eerste localizer kruisen en de tweede onderscheppen.,ILS*模式：穿越一个定位器并截获下一个。
+hint_2_ils_3,Instrument Landing System: cleared approach (plane will follow the blue line).,Instrument Landing System: toestemming om de landingsbaan te naderen (het vliegtuig zal de blauwe lijn volgen).,仪表着陆系统：许可进近（飞机将跟随蓝线）。
+hint_2_ils_4,ILS mode off: the plane will maintain its current heading.,ILS-modus uit: het vliegtuig zal de huidige koers aanhouden.,ILS模式关闭：飞机将保持当前航向。
+hint_2_ils_5,Tip: you can also enable {button_ils} mode by clicking the left and right mouse buttons at the same time.,Tip: je kan de {button_ils}-modus ook activeren door de linker- en rechtermuisknop tegelijkertijd in te drukken.,提示：您也可以通过同时点击鼠标左右键来启用{button_ils}模式。
+hint_2_indexing,Indexing custom airport files,Indexeren van custom airport-bestanden,索引自定义机场文件
+hint_2_llz_1,Cleared for the localizer only; plane needs full ILS clearance later.,Alleen toestemming om de localizer te volgen; het vliegtuig moet later nog de volledige ILS-klaring krijgen.,仅获准跟随定位器；飞机稍后需要完整的ILS许可。
+hint_2_llz_2,"Lateral NAV mode: cleared for the lateral approach route, but not cleared for the vertical descent profile.","Laterale NAV-modus: toestemming voor het volgen van de route, maar nog niet om te dalen.",横向NAV模式：获准跟随横向进近航路，但未获准垂直下降剖面。
+hint_2_llz_3,Enable ILS mode first.,Zet eerst de ILS-modus aan.,首先启用ILS模式。
+hint_2_lock_alt,"Tip: to maintain the altitude (instead of descending automatically), press and hold the digits between the altitude plus/minus buttons.","Tip: om te voorkomen dat een vliegtuig automatisch daalt, kun je de cijfers tussen de Altitude-knoppen lang indrukken.",提示：要维持高度（而不是自动下降），请按住高度加减按钮之间的数字。
+hint_2_not_ready,Plane is not ready for approach yet.,Het vliegtuig is nog niet klaar voor de landing.,飞机尚未准备好进近。
+hint_2_ok_1,Tip: you can also {button_ok} by clicking the mouse wheel (the middle mouse button). Press {KEY} to see/change the game controls.,Tip: je kan ook {button_ok} toepassen door middel van een klik op het muiswiel (middelste muisknop). Druk op {KEY} om de spelbesturing te zien/veranderen.,提示：您也可以通过点击鼠标滚轮（中键）来{button_ok}。按{KEY}查看/更改游戏控制。
+hint_2_rewind_1,Scenario rewinded by {AMOUNT} minutes.,Het scenario is {AMOUNT} minuten teruggespoeld.,场景倒退了{AMOUNT}分钟。
+hint_2_rewind_2,"Scenario rewinded by {AMOUNT} minutes. To start from the beginning, press the {button_scenario} button.",Het scenario is {AMOUNT} minuten teruggespoeld. Om vanaf het begin te starten klik je op {button_scenario}.,场景倒退了{AMOUNT}分钟。要从头开始，请按{button_scenario}按钮。
+hint_2_route_1,APP mode: navigate fully automatically via the displayed route to the ILS.,APP-modus: het vliegtuig zal automatisch navigeren naar het ILS via de weergeven route.,APP模式：通过显示的航路完全自动导航至ILS。
+hint_2_route_2,"APP mode: navigate fully automatically via the displayed route, then give vectors to the ILS.","APP-modus: het vliegtuig zal automatisch navigeren via de weergeven route, waarna je vectors kunt geven naar het ILS.",APP模式：通过显示的航路完全自动导航，然后给予至ILS的引导。
+hint_2_rwy_change_1,"Runway change in progress, 1 minute to go.","Baanverandering in uitvoering, 1 minuut te gaan.",跑道变更进行中，还剩1分钟。
+hint_2_rwy_change_2,"Runway change in progress, {AMOUNT} minutes to go.","Baanverandering in uitvoering, {AMOUNT} minuten te gaan.",跑道变更进行中，还剩{AMOUNT}分钟。
+hint_2_scenario_2,Tip: a challenging scenario is available for this airport. See the {button_traffic} menu to start the scenario.,Tip: een uitdagend scenario is beschikbaar voor dit vliegveld. Zie het menu {button_traffic} om het scenario te starten.,提示：此机场有一个挑战性场景可用。参见{button_traffic}菜单以开始场景。
+hint_2_scenario_3,"Tip: a challenging scenario mode is available at EHAM airport. Switch to EHAM, then go to the {button_traffic} menu to start the scenario.","Tip: een uitdagend scenario is beschikbaar voor EHAM airport. Schakel over naar EHAM, en ga dan naar het menu {button_traffic} om het scenario te starten.",提示：EHAM机场有一个挑战性场景模式可用。切换到EHAM，然后转到{button_traffic}菜单以开始场景。
+hint_2_scenario_ended,Scenario has ended without success,Scenario geeindigd zonder succes.,场景已结束，未成功。
+hint_2_scenario_fail_1,"Oops, a mistake. The scenario traffic mode is pretty hard. See the {button_traffic} menu for easier traffic options.","Oeps, een foutje. De scenario-modus is vrij lastig. Zie het menu {button_traffic} voor makkelijkere opties.",糟糕，一个错误。场景交通模式相当困难。参见{button_traffic}菜单获取更简单的交通选项。
+hint_2_scenario_fail_2,"Oops, a mistake. These scenarios are indeed challenging, even for seasoned players. Perhaps try it again another time.","Oeps, een foutje. De scenarios zijn uitdagend, zelfs voor ervaren spelers. Probeer het eventueel een andere keer nog eens.",糟糕，一个错误。这些场景确实具有挑战性，即使对于经验丰富的玩家也是如此。也许改天再试一次。
+hint_2_scenario_fail_3,"Oops, a mistake. Press the {button_rewind} button in the {button_traffic} menu to revert to a couple of minutes ago.","Oeps, een foutje. Druk op de {button_rewind}-knop in het menu {button_traffic} om een paar minuten terug in de tijd te gaan.",糟糕，一个错误。按下{button_traffic}菜单中的{button_rewind}按钮以恢复到几分钟前。
+hint_2_scenario_fail_4,"Oops, a mistake. Press the {button_rewind} button in the {button_traffic} menu (or {KEY}) to revert to a couple of minutes ago.","Oeps, een foutje. Druk op de {button_rewind}-knop in het menu {button_traffic} (of {KEY}) om een paar minuten terug in de tijd te gaan.",糟糕，一个错误。按下{button_traffic}菜单中的{button_rewind}按钮（或{KEY}）以恢复到几分钟前。
+hint_2_scenario_fail_5,"Oops, a mistake. To try again, press the {button_scenario} button in the {button_traffic} menu.","Oeps, een foutje. Om het opnieuw te proberen klik je op {button_scenario} in het menu {button_traffic}.",糟糕，一个错误。要重试，请按下{button_traffic}菜单中的{button_scenario}按钮。
+hint_2_scenario_loading,Loading scenario.,Laden scenario.,加载场景中。
+hint_2_scenario_started,Scenario started.,Scenario gestart.,场景已开始。
+hint_2_sid_1,Standard Instrument Departure: fly via the displayed route.,Standard Instrument Departure: het vliegtuig zal vliegen via de weergeven route.,标准仪表离场：通过显示的航路飞行。
+hint_2_sid_2,Standard Instrument Departure: the plane will fly via the point {FIX}.,Standard Instrument Departure: het vliegtuig zal via het punt {FIX} vliegen.,标准仪表离场：飞机将通过点{FIX}飞行。
+hint_2_sid_3,SID mode off; the plane will maintain its current heading.,SID-modus uit: het vliegtuig zal de huidige koers aanhouden.,SID模式关闭；飞机将保持当前航向。
+hint_2_sid_4,Enable {button_sid} and increase the altitude to allow handoff.,Activeer {button_sid}-modus en verhoog de hoogte om dit vliegtuig te kunnen overzetten.,启用{button_sid}并增加高度以允许移交。
+hint_2_sid_5,Increase the altitude to allow handoff.,Verhoog de hoogte om dit vliegtuig te kunnen overzetten.,增加高度以允许移交。
+hint_2_sid_6,Tip: you can also enable {button_sid} mode by clicking the left and right mouse buttons at the same time.,Tip: je kan {button_sid}-modus ook activeren door de linker- en rechtermuisknop tegelijkertijd in te drukken.,提示：您也可以通过同时点击鼠标左右键来启用{button_sid}模式。
+hint_2_sid_7,Tip: longpress the {button_sid} button to set the altitude to the maximum value automatically.,Tip: druk de {button_sid}-knop lang in om de hoogte op maximaal in te stellen.,提示：长按{button_sid}按钮以自动将高度设置为最大值。
+hint_2_sid_8,Tip: longpress the {button_sid} button to give a direct to the last point of the route.,Tip: druk de {button_sid}-knop lang in om het vliegtuig direct naar het laatste punt van de route te laten vliegen.,提示：长按{button_sid}按钮以直飞至航路的最后一个点。
+hint_2_speed_1,Tip: you can also change the speed by scrolling the mouse wheel while holding the right mouse button.,Tip: je kan de snelheid ook instellen door te scrollen met het muiswiel terwijl je de rechtermuisknop indrukt.,提示：您也可以在按住鼠标右键的同时滚动鼠标滚轮来更改速度。
+hint_2_timer_2togo,Timer: 2 landings to go until auto exit.,Timer: nog 2 landingen te gaan tot afsluiten.,计时器：还剩2次降落直到自动退出。
+hint_2_timer_2togo_2,Timer: 2 landings to go until airspace closure.,Timer: nog 2 landingen te gaan tot sluiting luchtruim.,计时器：还剩2次降落直到空域关闭。
+hint_2_timer_2togo_3,Timer: 2 landings to go until airspace closure. Note: high scores and goals will be disabled until a new game is started.,Timer: nog 2 landingen te gaan tot sluiting luchtruim. Let op: highscores en doelen zullen worden uitgeschakeld totdat een nieuw spel wordt gestart.,计时器：还剩2次降落直到空域关闭。注意：高分和目标将被禁用，直到开始新游戏。
+hint_2_timer_enable,Tip: keep track of playtime by enabling the {button_timer} in the menu.,Tip: houd je speeltijd in de gaten door de {button_timer} te activeren in het menu.,提示：通过在菜单中启用{button_timer}来跟踪游戏时间。
+hint_2_timer_finished_1,Timer finished.,Timer is afgelopen.,计时器结束。
+hint_2_timer_finished_2,Timer finished: airspace is closed.,Timer is afgelopen: het luchtruim is gesloten.,计时器结束：空域已关闭。
+hint_2_wake_1,A plane is going around because it was flying too close behind another plane.,Een vliegtuig heeft een doorstart gemaakt omdat het te dicht achter een ander vliegtuig vloog.,一架飞机正在复飞，因为它飞得太靠近另一架飞机后方。
+hint_2_wake_2,Tip: orange arcs behind heavy planes indicate the required distance.,Tip: de oranje bogen achter zware vliegtuigen geven de minimale afstand aan.,提示：重型飞机后方的橙色弧线指示所需距离。
+hint_3_20x,Tip: longpress the menu button to temporarily speed up to 20x.,Tip: houd de menu-knop ingedrukt om de simulatiesnelheid tijdelijk te verhogen naar 20x.,提示：长按菜单按钮可临时加速至20倍。
+hint_3_add_custom_airport_1,"Tip: you can add your own airport, by importing a Custom Airport TXT file. See {button_about}/{button_import}.","Tip: je kan je eigen luchthaven toevoegen, door een Custom Airport TXT bestand te importeren. Zie {button_about}/{button_import}.",提示：您可以通过导入自定义机场TXT文件来添加自己的机场。参见{button_about}/{button_import}。
+hint_3_add_custom_airport_2,"Tip: you can add your own airports, by copying Custom Airport TXT files into the /locations folder. See {button_about}/{button_blog} for info.","Tip: je kan je eigen luchthaven toevoegen, door een Custom Airport TXT bestand in de /locations map te plaatsen. Zie {button_about}/{button_import}.",提示：您可以通过将自定义机场TXT文件复制到/locations文件夹来添加自己的机场。参见{button_about}/{button_blog}获取信息。
+hint_3_added_txt_1,Added custom airport {AIRPORT}.,Luchthaven {AIRPORT} is toegevoegd.,已添加自定义机场{AIRPORT}。
+hint_3_added_txt_2,"To remove it, press the {button_about}/{button_remove} button.","Om het te verwijderen, ga naar {button_about}/{button_remove}.",要删除它，请按{button_about}/{button_remove}按钮。
+hint_3_added_txt_3,The selected txt file is not a custom airport txt file.,Het geselecteerde txt-bestand is geen custom airport bestand.,选定的txt文件不是自定义机场txt文件。
+hint_3_airspace,{COLOR} airspace.,{COLOR} luchtruim.,{COLOR}空域。
+hint_3_airspace_closed,Airspace is closed.,Het luchtruim is gesloten.,空域已关闭。
+hint_3_airspace_open,Airspace is open.,Luchtruim is open.,空域已开放。
+hint_3_arrival_labels,{COLOR} arrival labels.,,{COLOR}进场标签。
+hint_3_auto,automatic,automatisch,自动
+hint_3_background,{COLOR} background.,{COLOR} achtergrond.,{COLOR}背景。
+hint_3_bar_auto,"Automatically control bar position, based on screen ratio.","Automatische balkpositie, gebaseerd op de schermverhouding.",根据屏幕比例自动控制栏位置。
+hint_3_bar_manual_bot,Manual control bar position: Bottom.,Handmatige balkpositie: onderkant.,手动控制栏位置：底部。
+hint_3_bar_manual_hint,"To change it back to Auto, press the {button_bar} button in the {button_display} menu.","Om het terug te zetten naar Auto, druk je op {button_bar} in het {button_display}-menu.",要将其改回自动，请按{button_display}菜单中的{button_bar}按钮。
+hint_3_bar_manual_side,Manual control bar position: Side.,Handmatige balkpositie: zijkant.,手动控制栏位置：侧边。
+hint_3_bar_pos_auto,"Control bar positioned automatically, based on screen ratio (default).","Balk is nu automatisch gepositioneerd, gebaseerd op vorm van scherm (standaard).",控制栏根据屏幕比例自动定位（默认）。
+hint_3_bar_pos_bottom,Longpress {button_bar} button to move the bar the bottom.,Druk lang op de {button_bar} knop om de balk naar de onderkant van het scherm te verplaatsen.,长按{button_bar}按钮将栏移至底部。
+hint_3_bar_pos_left,Control bar at the left side.,Balk aan de linkerkant.,控制栏在左侧。
+hint_3_bar_pos_long,Tip: you can also move the bar to the bottom of the screen by longpressing the {button_bar} button.,Tip: je kan de balk ook naar de onderkant verplaatsen door lang te drukken op de knop {bar_button},提示：您也可以通过长按{button_bar}按钮将栏移至屏幕底部。
+hint_3_bar_pos_right,Control bar at the right side.,Balk aan de rechterkant.,控制栏在右侧。
+hint_3_bar_pos_swipe_1,Tip: you can also move the bar to the other side by dragging the menu button left to right.,Tip: je kan de balk ook naar de andere kant verplaatsen door de menuknop van links naar rechts te slepen.,提示：您也可以通过将菜单按钮从左向右拖动来将栏移至另一侧。
+hint_3_bgtext_limited,Background text limited.,Achtergrondtekst beperkt.,背景文本受限。
+hint_3_bgtext_off,Background text off.,Achtergrondtekst uit.,背景文本关闭。
+hint_3_bgtext_on,Background text on.,Achtergrondtekst aan.,背景文本开启。
+hint_3_bind_defaults,Press {button_defaults} again to reset all mouse and key controls back to the default values.,Druk {button_defaults} nogmaals in om alle muis- en keyboardbesturing terug te zetten naar de standaardinstelling.,再次按{button_defaults}将所有鼠标和键盘控制重置为默认值。
+hint_3_bind_reset,All controls are reset to the default values.,Alle besturing is teruggezet naar de standaardinstelling.,所有控制已重置为默认值。
+hint_3_break_1,Press back button to pause.,Druk op de terugknop om te pauzeren.,按返回按钮暂停。
+hint_3_break_2,Press ESC to pause.,Druk op Esc om te pauzeren.,按ESC暂停。
+hint_3_break_3,Playtime is {AMOUNT} hours. Current time: {TIME}.,Speeltijd is {AMOUNT} uren. Huidige tijd: {TIME}.,游戏时间为{AMOUNT}小时。当前时间：{TIME}。
+hint_3_break_4,And your timer is already finished!,En je timer is al afgelopen!,您的计时器已经结束了！
+hint_3_break_5,Tip: enable the {button_timer} in the menu to limit playtime.,Tip: activeer de {button_timer} in het menu om de speeltijd te begrenzen.,提示：在菜单中启用{button_timer}以限制游戏时间。
+hint_3_break_6,Tip: set traffic to 0 in the menu to close the airport and finish this session.,Tip: zet het verkeer op 0 in het menu om het luchtruim te sluiten.,提示：在菜单中将交通设置为0以关闭机场并结束此会话。
+hint_3_break_7,Tip: press {button_endgame} in the {button_traffic} menu to close the airport and finish this session.,Tip: druk op {button_endgame} in het {button_traffic}-menu om het luchtruim te sluiten en deze sessie te eindigen.,提示：按{button_traffic}菜单中的{button_endgame}以关闭机场并结束此会话。
+hint_3_break_8,The game will be saved on exit automatically.,Het spel zal automatisch worden opgeslagen als je het spel afsluit.,游戏将在退出时自动保存。
+hint_3_break_9,Press the X button to end the game.,Druk op de X om het spel af te sluiten.,按X按钮结束游戏。
+hint_3_cancel_instr,Canceled unapplied instructions.,Niet-uitgevoerde instructies geannuleerd.,已取消未应用的指令。
+hint_3_captions_hide,"To hide the blue messages, go to {button_display}/{button_extra} and disable {button_captions}.","Om de blauwe berichten te verbergen, ga je naar {button_display}/{button_extra} en schakel je {button_captions} uit.",要隐藏蓝色消息，请转到{button_display}/{button_extra}并禁用{button_captions}。
+hint_3_captions_off,Captions are off (see {button_display}/{button_extra}).,Ondertiteling is uit (zie {button_display}/{button_extra}).,字幕关闭（参见{button_display}/{button_extra}）。
+hint_3_captions_off_1,Note: this makes it much more difficult to play!,Merk op dat dit het spel een stuk moeilijker maakt!,注意：这会使游戏变得困难得多！
+hint_3_captions_off_2,"Note: this makes it more difficult to play, especially as the radio is switched off in the {button_sound} menu!","Merk op dat dit het spel een stuk moeilijker maakt, in het bijzonder omdat de radio uitgeschakeld is in het {button_sound} menu.",注意：这会使游戏变得困难得多，特别是因为{button_sound}菜单中的无线电已关闭！
+hint_3_captions_off_3,"Plane captions off, unless the menu is open.","Vliegtuigondertiteling uit, tenzij het menu open staat.",飞机字幕关闭，除非菜单打开。
+hint_3_captions_off_4,Note: radio is muted.,Merk op dat de radio uit staat.,注意：无线电已静音。
+hint_3_captions_on,Plane captions on.,Vliegtuigondertiteling aan.,飞机字幕开启。
+hint_3_change_bindings,Press {KEY} to change key bindings.,Druk op {KEY} om key bindings aan te passen.,按{KEY}更改按键绑定。
+hint_3_choose_orient,Tip: you can choose your preferred screen orientation in the {button_display} menu.,Tip: je kan kiezen welke schermorientatie je wilt gebruiken in het {button_display}-menu.,提示：您可以在{button_display}菜单中选择偏好的屏幕方向。
+hint_3_circle_size,Circle size: {AMOUNT} NM.,Cirkelgrootte: {AMOUNT} NM.,圆圈大小：{AMOUNT}海里。
+hint_3_circle_size_double,Double circle size: {AMOUNT} NM.,Dubbele cirkelgrootte: {AMOUNT} NM.,双倍圆圈大小：{AMOUNT}海里。
+hint_3_circles_auto,Separation circles automatic: only displaying circles when other planes are nearby.,Separatiecirkels automatisch: laat alleen cirkels zien als vliegtuigen dicht bij elkaar vliegen.,间隔圆圈自动：仅在其他飞机附近时显示圆圈。
+hint_3_circles_off,Separation circles (and altitude arcs) off.,Separatiecirkels (en hoogtebogen) uit.,间隔圆圈（和高度弧线）关闭。
+hint_3_clock_off,Clock off.,Klok uit.,时钟关闭。
+hint_3_clock_on_1,"Clock on: system time, 24 hour format.",Klok aan: 24-uurs notatie.,时钟开启：系统时间，24小时制。
+hint_3_clock_on_2,"Clock on: system time, 12 hour format.",Klok aan: 12-uurs notatie.,时钟开启：系统时间，12小时制。
+hint_3_closed_airspace,"Airspace is closed. To open, switch to {button_normal} traffic, or increase the skill value in the {button_custom} menu.","Het luchtruim is gesloten. Om het te openen, switch je naar {button_normal} verkeer, of verhoog je de skillwaarde in het {button_custom}-menu.",空域已关闭。要开放，请切换到{button_normal}交通，或在{button_custom}菜单中增加技能值。
+hint_3_clouds_around,Significant clouds; planes need to fly around them. Click the {button_clouds} button again for more clouds.,Significante wolken; vliegtuigen moeten om de wolken heen vliegen. Klik nogmaals op de {button_clouds} knop om meer wolken te plaatsen.,显著云层；飞机需要绕飞。再次点击{button_clouds}按钮以获取更多云层。
+hint_3_clouds_key,Tip: press {KEY} to place a cloud at the cursor location.,Tip: druk op de {KEY} toets om een wolk te plaatsen op de cursorlocatie.,提示：按{KEY}在光标位置放置云层。
+hint_3_clouds_swipe_1,Tip: swipe from the {button_clouds} button onto the radar display to place a cloud at a specific location.,Tip: sleep vanaf de knop {button_clouds} naar de radar om een wolk te plaatsten op een specifieke locatie.,提示：从{button_clouds}按钮滑动到雷达显示以在特定位置放置云层。
+hint_3_coastline,{COLOR} coastline.,{COLOR} kustlijn.,{COLOR}海岸线。
+hint_3_conflict_1,"Tip: to do parallel approaches without incidents, intercept the localizer farther away from the runway to avoid GS capture before both planes are on the LOC.","Tip: om parallelle naderingen te doen zonder incidenten, onderschep je de localizer verder van de baan af, om te voorkomen dat de GS wordt onderschept voordat beide vliegtuigen op de LOC zitten.",提示：要进行无事故的平行进近，在离跑道更远处截获定位器，以避免两架飞机都在LOC之前捕获下滑道。
+hint_3_conflict_2,"Tip: to do parallel approaches without incidents, intercept the localizer of runway {RWY1} at {ALT1} and the localizer of runway {RWY2} at {ALT2}.","Tip: om parallelle naderingen te doen zonder incidenten, onderschep je de localizer van baan {RWY1} op {ALT1}, en de localizer van baan {RWY2} op {ALT2}.",提示：要进行无事故的平行进近，在{ALT1}高度截获跑道{RWY1}的定位器，在{ALT2}高度截获跑道{RWY2}的定位器。
+hint_3_custom_again_1,Press {button_custom} again to change the amount of traffic.,Druk nogmaals op {button_custom} om de hoeveelheid verkeer te kunnen veranderen.,再次按{button_custom}以更改交通量。
+hint_3_custom_again_2,Press {button_custom} again to end this scenario and continue with custom traffic.,Druk nogmaals op {button_custom} om dit scenario af te breken en door te gaan met aangepast verkeer.,再次按{button_custom}以结束此场景并继续自定义交通。
+hint_3_custom_again_3,Press {button_custom} again to change the amount of traffic. Warning: goals and high scores will be disabled.,Druk nogmaals op {button_custom} om de hoeveelheid verkeer te kunnen veranderen. Let op: doelen en highscores worden dan uitgeschakeld,再次按{button_custom}以更改交通量。警告：目标和最高分将被禁用。
+hint_3_custom_full_version,Custom traffic rate is available in the full version.,Aangepast verkeer is beschikbaar in de volledige versie.,自定义交通率在完整版本中可用。
+hint_3_custom_score,"Tip: to open more runways, increase the {menu_runways_8} value.","Tip: om meer banen te openen, verhoog je de waarde van de {menu_runways_8}.",提示：要开放更多跑道，请增加{menu_runways_8}值。
+hint_3_default,Default.,Standaard.,默认。
+hint_3_departure_labels,{COLOR} departure labels.,,{COLOR}离场标签。
+hint_3_deselect_cancel,“{button_cancel}�?on plane deselect.,鈥渰button_cancel}鈥?als je een vliegtuig deselecteerd.,飞机取消选择时“{button_cancel}”。
+hint_3_deselect_ok,“{button_ok}�?on plane deselect.,鈥渰button_ok}鈥?als je een vliegtuig deselecteerd.,飞机取消选择时“{button_ok}”。
+hint_3_disabled,disabled,uitgeschakeld,已禁用
+hint_3_dismiss_1,Tap here to dismiss this message.,Klik hier om dit bericht te verbergen.,点击此处关闭此消息。
+hint_3_dismiss_2,Click here to dismiss this message.,Klik hier om dit bericht te verbergen.,点击此处关闭此消息。
+hint_3_distance_tool,Tip: click the right mouse button to activate the distance measurement tool.,Tip: klik op de rechtermuisknop om de afstand tussen twee punten te meten.,提示：点击鼠标右键以激活距离测量工具。
+hint_3_doubletap_disable,Double-tap zoom disabled.,Dubbelklik-zoom uitgeschakeld.,双击缩放已禁用。
+hint_3_doubletap_enable,Double-tap zoom enabled.,Dubbelklik-zoom ingeschakeld.,双击缩放已启用。
+hint_3_enable_clock,Tip: you can enable a clock showing the system time. See the {button_display}/{button_extra} menu.,Tip: je kan een klok inschakelen die de systeemtijd toont. Zie het {button_display}/{button_extra} menu.,提示：您可以启用显示系统时间的时钟。参见{button_display}/{button_extra}菜单。
+hint_3_enabled,enabled,ingeschakeld,已启用
+hint_3_endgame_again,Press {button_endgame} again to close the airspace.,Druk nogmaals op {button_endgame} om het luchtruim te sluiten.,再次按{button_endgame}以关闭空域。
+hint_3_enroute_labels,{COLOR} enroute plane labels.,{COLOR} enroute labels.,{COLOR}航路飞机标签。
+hint_3_errors_custom,Chance of random errors is about 1 in {AMOUNT}.,Kans op willekeurige fouten is 1 op {AMOUNT}.,随机错误概率约为1/{AMOUNT}。
+hint_3_errors_high_1,High chance of random errors.,Grote kans op willekeurige fouten.,随机错误概率高。
+hint_3_errors_high_2,"Tip: to catch errors more easily, enable {button_readbacks} in the {button_sound} menu.","Tip: om foute makkelijker op te vangen, schakel je {button_readbacks} in via het menu {button_sound}.",提示：要更容易捕获错误，请在{button_sound}菜单中启用{button_readbacks}。
+hint_3_errors_low_1,Low chance of random errors (like miscommunications and pilot errors).,Kleine kans op willekeurige fouten (zoals miscommunicaties en fouten van piloten).,随机错误概率低（如通信错误和飞行员错误）。
+hint_3_errors_low_2,Low chance of random errors.,Kleine kans op willekeurige fouten.,随机错误概率低。
+hint_3_errors_off,No random errors.,Geen willekeurige fouten.,无随机错误。
+hint_3_events_custom,Chance of random incidents is about 1 in {AMOUNT}.,Kans op willekeurige incidenten is 1 op {AMOUNT}.,随机事件概率约为1/{AMOUNT}。
+hint_3_events_high_1,High chance of random incidents (like emergencies and other random events).,Grote kans op willekeurige incidenten (zoals noodlandingen en andere gebeurtenissen).,随机事件概率高（如紧急情况和其他随机事件）。
+hint_3_events_high_2,High chance of random incidents.,Grote kans op willekeurige incidenten.,随机事件概率高。
+hint_3_events_low,Low chance of random incidents.,Kleine kans op willekeurige incidenten.,随机事件概率低。
+hint_3_events_off,No random incidents.,Geen willekeurige incidenten.,无随机事件。
+hint_3_fastforward_1,Tip: you can temporary increase the simulation speed by pressing and holding the {button_menu} button.,Tip: je kan de simulatiesnelheid tijdelijk verhogen door lang op de {button_menu}-knop te drukken.,提示：您可以通过按住{button_menu}按钮临时增加模拟速度。
+hint_3_fastforward_2,Tip: you can temporary increase the simulation speed by pressing and holding the {button_menu} button or {KEY}.,"Tip: je kan de simulatiesnelheid tijdelijk verhogen door lang op de {button_menu}-knop te drukken, of {KEY}.",提示：您可以通过按住{button_menu}按钮或{KEY}临时增加模拟速度。
+hint_3_first_plane_landed,Good job! You landed your first plane.,Goed gedaan! Je hebt je eerste vliegtuig laten landen.,干得好！您已降落第一架飞机。
+hint_3_fixed_weather,Fixed weather.,Weersomstandigheden vastgezet.,固定天气。
+hint_3_flow_is_fixed,Traffic flow from and to the main airport is fixed.,Verkeersstroom van en naar de hoofdluchthaven is vastgezet.,主机场的进出交通流已固定。
+hint_3_flow_is_fixed_2,Fixed arrival and departure flow.,Vaste stroom van arrivals en departures.,固定进场和离场流。
+hint_3_flow_is_fixed_3,Defined traffic flow from and to the main airport.,Ingestelde verkeersstroom van en naar de hoofdluchthaven.,已定义主机场的进出交通流。
+hint_3_flow_is_vary,Varying arrival and departure flow (1 hour cycle).,Veranderende stroom van arrivals en departures (1-uur cyclus).,变化的进场和离场流（1小时周期）。
+hint_3_font_large,Font size large.,Tekstgrootte groot.,字体大小大。
+hint_3_font_medium,Font size medium.,Tekstgrootte medium.,字体大小中。
+hint_3_font_small,Font size small.,Tekstgrootte klein.,字体大小小。
+hint_3_font_xlarge,Font size extra large.,Tekstgrootte extra groot.,字体大小特大。
+hint_3_freqs_off,Handoff frequencies off.,Frequenties bij overzetten uitgeschakeld.,移交频率关闭。
+hint_3_freqs_on,Handoff frequencies on.,Frequenties bij overzetten ingeschakeld.,移交频率开启。
+hint_3_go_fullscreen,Tip: you can also go full screen by pressing {KEY}.,Tip: je kan ook naar volledig scherm gaan door op {KEY} te drukken.,提示：您也可以通过按{KEY}进入全屏。
+hint_3_goal_scored_1,Congratulations! You achieved the goal:,Gefeliciteerd! Je heb een doel behaald:,恭喜！您已达成目标：
+hint_3_goal_scored_2,Well done! You reached the goal:,Goed gedaan! Je heb een doel bereikt:,做得好！您已达到目标：
+hint_3_goal_screen,See the {button_goals} screen to see all your achievements,Zie het {button_goals}-scherm om al je behaalde doelen te bekijken.,参见{button_goals}屏幕查看所有成就。
+hint_3_goals_disabled,Goals and high scores disabled.,Doelen en highscores zijn uitgeschakeld.,目标和最高分已禁用。
+hint_3_heading_line_1,Heading line set at 1 minute.,Headinglijn ingesteld op 1 minuut.,航向线设置为1分钟。
+hint_3_heading_line_2,Heading line set at {AMOUNT} minutes.,Headinglijn ingesteld op {AMOUNT} minuten.,航向线设置为{AMOUNT}分钟。
+hint_3_highscore_10,Nice! You achieved a new high score of 10.,Mooi! Je hebt een nieuwe highscore van 10 bereikt.,很好！您获得了新的最高分10。
+hint_3_highscore_20,Great! You achieved a new high score of 20.,Geweldig! Je hebt een nieuwe highscore van 20 bereikt.,太棒了！您获得了新的最高分20。
+hint_3_highscore_30,Awesome! You achieved a new high score of 30!,Fantastisch! Je hebt een nieuwe highscore van 30 bereikt!,太棒了！您获得了新的最高分30！
+hint_3_highscore_airport,Good job! You achieved a score of 10 for the first time at {AIRPORT} airport.,Netjes! Je hebt voor het eerst een score van 10 bereikt op {AIRPORT} airport.,干得好！您在{AIRPORT}机场首次获得10分。
+hint_3_hints_off,Hints off.,Hints uit.,提示关闭。
+hint_3_hints_off_tip,Longpress the {button_help} button to hide these hints for new players.,Druk lang op de {button_help} knop om deze hints voor beginners te verbergen.,长按{button_help}按钮为新玩家隐藏这些提示。
+hint_3_hints_on,Hints on.,Hints aan.,提示开启。
+hint_3_ident_off,"Ident off: no blinking planes, unless the menu is open.","Ident uit: geen knipperende vliegtuigen, tenzij het menu open staat.",识别关闭：无闪烁飞机，除非菜单打开。
+hint_3_ident_on,Ident on: blinking planes till pressing OK.,Ident aan: knipperende vliegtuigen totdat je op OK klikt.,识别开启：闪烁飞机直到按下OK。
+hint_3_import_1,The {button_import} button lets you pick a custom airport txt file from your device.,Met de knop {button_import} kun je een custom airport txt bestand selecteren van je apparaat.,{button_import}按钮让您从设备中选择自定义机场txt文件。
+hint_3_import_2,"If you don't have a txt file yet, download one first.","Als je nog geen txt bestand hebt, moet je er eerst een downloaden.",如果您还没有txt文件，请先下载一个。
+hint_3_keybind_1,is binded to key,is gekoppeld aan,已绑定到按键
+hint_3_keybind_2,Warning: this key is also binded to,Waarschuwing: deze toets is ook gekoppeld aan,警告：此按键也已绑定到
+hint_3_keybind_3,Warning: using this key may interfere with key combos.,Waarschuwing: het gebruik van deze toets kan interferreren met combo鈥檚.,警告：使用此按键可能会干扰按键组合。
+hint_3_keybind_4,Tip: disable Text Input (press {KEY}) to avoid interfering inputs.,Tip: deactiveer Tekst Input (druk op {KEY}) om interferrerende inputs te voorkomen.,提示：禁用文本输入（按{KEY}）以避免干扰输入。
+hint_3_keyboard_1,This page in {button_about}/{button_controls} ({KEY}) shows examples on how to use Text Inputs to control planes.,Deze pagina in {button_about}/{button_controls} ({KEY}) toont voorbeelden van Tekstinput waarmee je vliegtuigen instructies kunt geven.,{button_about}/{button_controls}（{KEY}）中的此页面显示如何使用文本输入控制飞机的示例。
+hint_3_keyboard_2,Press Space bar to autocomplete the callsign.,Druk op de Spatiebalk om de callsign automatisch aan te vullen.,按空格键自动完成呼号。
+hint_3_label_style,Label style,Labelstijl,标签样式
+hint_3_leave_holding_1,"Plane will leave the holding after flying over {POINT}, unless you deactivate {button_hold} mode first.","Het vliegtuig zal de holding verlaten nadat het over {POINT} vliegt, tenzij je de {button_hold}-modus eerst deactiveert.",飞机飞越{POINT}后将离开等待，除非您先停用{button_hold}模式。
+hint_3_leave_holding_2,"Plane will leave the holding after flying over the fix, unless you deactivate {button_hold} mode first.","Het vliegtuig zal de holding verlaten nadat het over de fix vliegt, tenzij je de {button_hold}-modus eerst deactiveert.",飞机飞越定位点后将离开等待，除非您先停用{button_hold}模式。
+hint_3_line_curved,Curved heading lines.,Gekromde headinglijnen.,曲线航向线。
+hint_3_line_off,Heading line off.,Headinglijn uit.,航向线关闭。
+hint_3_line_straight,Straight heading lines.,Rechte headinglijnen.,直线航向线。
+hint_3_load_fallback_1,Could not load most recent savegame; loaded the backup instead.,De meest recente savegame kon niet geladen worden; in plaats daarvan is de backup geladen.,无法加载最近的存档；已加载备份。
+hint_3_load_fallback_2,Could not load latest savegame; loaded an older file.,De meest recente savegame kon niet geladen worden; in plaats daarvan is een ander bestand geladen.,无法加载最新存档；已加载较旧文件。
+hint_3_longplay_1,"Thanks for trying the demo! The full version has more airports, traffic options and autosave.","Bedankt voor het uitproberen van de demoversie. De volledige versie heeft meer luchthavens, verkeersopties en autosave.",感谢试用演示版！完整版本有更多机场、交通选项和自动保存。
+hint_3_longplay_2,Tip: enable the {button_timer} in the menu to limit playtime.,Tip: activeer de {button_timer} in het menu om de speeltijd te begrenzen.,提示：在菜单中启用{button_timer}以限制游戏时间。
+hint_3_longplay_3,Tip: set {button_traffic} to 0 in the menu to close the airport and finish this session.,Tip: zet {button_traffic} op 0 in het menu om het luchtruim te sluiten.,提示：在菜单中将{button_traffic}设置为0以关闭机场并结束此会话。
+hint_3_longplay_4,Tip: press {button_endgame} in the {button_traffic} menu to close the airport and finish this session.,Tip: druk op de knop {button_endgame} in het menu {button_traffic} om de luchthaven te sluiten en deze sessie the eindigen.,提示：按{button_traffic}菜单中的{button_endgame}以关闭机场并结束此会话。
+hint_3_longplay_5,Game progress is saved automatically. You may quit at any time,Spelverloop wordt automatisch opgeslagen. Je kunt op elk moment stoppen.,游戏进度自动保存。您可以随时退出。
+hint_3_longplay_6,Game is saved. You can quit at any time.,Het spel is opgeslagen. Je kunt op elk moment stoppen.,游戏已保存。您可以随时退出。
+hint_3_longplay_7,You've been playing for hours. Please don't forget to take breaks!,Je bent al uren achter elkaar aan het spelen. Vergeet niet om af en toe een pauze te nemen!,您已经玩了几个小时。请不要忘记休息！
+hint_3_longplay_8,Warning: playing for a long time without taking breaks is unhealthy!,Waarschuwing: te lang achter elkaar spelen zonder pauzes is ongezond!,警告：长时间不间断游戏对健康有害！
+hint_3_media_mute,Note: the device media volume is muted.,Let op: het mediavolume van het apparaat staat uit.,注意：设备媒体音量已静音。
+hint_3_more_airports_1,More airports (and autosave) are available in the full version.,Meer luchthavens (en automatisch opslaan) zijn beschikbaar in de volledige versie.,更多机场（和自动保存）在完整版本中可用。
+hint_3_more_airports_2,More airports are available in the full version.,Meer luchthavens  zijn beschikbaar in de volledige versie.,更多机场在完整版本中可用。
+hint_3_newgame_again,Press {button_newgame} again to reset the traffic.,Druk nogmaals op {button_newgame} om het verkeer te resetten.,再次按{button_newgame}以重置交通。
+hint_3_no_clouds,No significant clouds.,Geen significante wolken.,无显著云层。
+hint_3_nodep_off,Departures activated.,Departures ingeschakeld.,离场已激活。
+hint_3_nodep_on,No departures.,Geen departures.,无离场。
+hint_3_noise,Radio noise {STATE}.,Radioruis {STATE}.,无线电噪音{STATE}。
+hint_3_normal_custom,Normal (adaptive) traffic. Runway use depends on score. Goals and high scores are still disabled until a new game is started.,Normaal (adaptief) verkeer. Baangebruik hangt af van je score. Doelen en highscores zijn nog steeds uitgeschakeld totdat een nieuw spel wordt gestart.,正常（自适应）交通。跑道使用取决于分数。目标和最高分在新游戏开始前仍被禁用。
+hint_3_normal_scenario,Press {button_normal} again to end this scenario and continue with adaptive traffic.,Druk nogmaals op {button_normal} om dit scenario af te breken en het spel te vervolgen met adaptief verkeer.,再次按{button_normal}以结束此场景并继续自适应交通。
+hint_3_normal_traffic_1,Normal traffic mode; number of planes adapts to skill level.,Normale verkeersmodus: het aantal vliegtuigen past zich aan aan de skillwaarde.,正常交通模式；飞机数量适应技能水平。
+hint_3_normal_traffic_2,Normal (adaptive) traffic mode. Goals and high scores are still disabled until a new game is started.,Normale (adaptieve) verkeersmodus. Doelen en highscores zijn nog steeds uitgeschakeld totdat een nieuw spel wordt gestart.,正常（自适应）交通模式。目标和最高分在新游戏开始前仍被禁用。
+hint_3_normal_txt,Normal traffic. Goals and high scores are disabled for custom airports.,Normaal verkeer. Doelen en highscores zijn uitgeschakeld voor custom airports.,正常交通。自定义机场的目标和最高分已禁用。
+hint_3_nosec_off,All airports open.,Alle luchthavens geopend.,所有机场开放。
+hint_3_nosec_on_1,No secondary airports.,Geen secundaire luchthavens.,无次要机场。
+hint_3_nosec_on_2,No secondary airport.,Geen secundaire luchthaven.,无次要机场。
+hint_3_nosec_on_3,"Secondary airports closed, main airport open.","Secundaire luchthavens gesloten, primaire luchthaven open.",次要机场关闭，主机场开放。
+hint_3_off,off,uit,关闭
+hint_3_on,on,aan,开启
+hint_3_open_airspace_1,"To open the airspace, go to the {button_traffic} menu, or start a new game in the {button_airport} menu.","Om het luchtruim te openen, ga je naar het {button_traffic}-menu, of start een nieuw spel in het {button_airport}-menu.",要开放空域，请转到{button_traffic}菜单，或在{button_airport}菜单中开始新游戏。
+hint_3_open_airspace_2,"To open the airspace, go to the {button_traffic} menu or start a new game.","Om het luchtruim te openen, ga je naar het {button_traffic}-menu, of start een nieuw spel.",要开放空域，请转到{button_traffic}菜单或开始新游戏。
+hint_3_opening_airspace,"To open the airspace, switch to {button_normal} traffic, or increase the skill value in the {button_custom} menu.","Om het luchtruim te openen, switch je naar {button_normal} verkeer, of verhoog je de skill in het {button_custom}-menu.",要开放空域，请切换到{button_normal}交通，或在{button_custom}菜单中增加技能值。
+hint_3_orientation_auto_1,Screen orientation automatic: using the device rotation setting.,Schermorientatie automatisch: gebruikmakend van de apparaatinstelling.,屏幕方向自动：使用设备旋转设置。
+hint_3_orientation_auto_2,Screen orientation automatic.,Schermorientatie automatisch.,屏幕方向自动。
+hint_3_orientation_fixed_1,"Screen orientation fixed at landscape, regardless of the device setting.","Schermorientatie vastgezet op landschap, ongeacht de apparaatinstelling.",屏幕方向固定为横屏，无论设备设置如何。
+hint_3_orientation_fixed_2,Screen orientation fixed at landscape.,Schermorientatie vastgezet op landschap.,屏幕方向固定为横屏。
+hint_3_orientation_fixed_3,"Screen orientation fixed at portrait, regardless of the device setting.","Schermorientatie vastgezet op portret, ongeacht de apparaatinstelling.",屏幕方向固定为竖屏，无论设备设置如何。
+hint_3_orientation_fixed_4,Screen orientation fixed at portrait.,Schermorientatie vastgezet op portret.,屏幕方向固定为竖屏。
+hint_3_parallel_approach_1,"Tip: to do parallel approaches without incidents, intercept the localizers with {ALT1} vertical separation. For example runway {RWY1} at {ALT2}, and runway {RWY2} at {ALT3}.","Tip: om gelijktijdige parallelle naderingen te doen, onderschep je de localizers met {ALT1} verticale separatie. Bijvoorbeeld baan {RWY1} op {ALT2}, en baan {RWY2} op {ALT3}.",提示：要进行无事故的平行进近，以{ALT1}垂直间隔截获定位器。例如跑道{RWY1}在{ALT2}高度，跑道{RWY2}在{ALT3}高度。
+hint_3_parallel_approach_2,Tip: longpress the {button_ils} button to make a plane cross the first localizer and capture the second localizer,Tip: houd de {button_ils}-knop lang ingedrukt om een vliegtuig de eerste localizer te kruisen en de tweede localizer te onderscheppen.,提示：长按{button_ils}按钮使飞机穿越第一个定位器并捕获第二个定位器。
+hint_3_pilot_delay_set_1,Pilot delay (plane reaction time) is set at {AMOUNT} seconds.,Traagheid piloten (reactietijd van vliegtuigen) is ingesteld op {AMOUNT} seconde.,飞行员延迟（飞机反应时间）设置为{AMOUNT}秒。
+hint_3_pilot_delay_set_2,Pilot delay is set at {AMOUNT} seconds.,Traagheid piloten is ingesteld op {AMOUNT} seconde.,飞行员延迟设置为{AMOUNT}秒。
+hint_3_plane_desel,Plane deselected.,Vliegtuig gedeselecteerd.,飞机已取消选择。
+hint_3_press_key_bind,"Press a key to bind to {KEY}, or press ESC to bind the default key.","Druk op een toets die je wil koppelen aan {KEY}, of druk op ESC om de standaard toets te koppelen.",按一个键绑定到{KEY}，或按ESC绑定默认键。
+hint_3_press_scenario_1,"Press {button_scenario} again to start a new game in scenario mode. Note: to play the next scenario, switch to {AIRPORT} first (via the {button_airport} menu).","Druk nogmaals op {button_scenario} om een nieuw spel te starten in scenario-modus. Opmerking: om het volgende scenario te spelen, switch je eerst naar {AIRPORT} (via het {button_airport}-menu).",再次按{button_scenario}以在场景模式中开始新游戏。注意：要玩下一个场景，请先切换到{AIRPORT}（通过{button_airport}菜单）。
+hint_3_press_scenario_2,Press {button_scenario} again to restart the scenario from the beginning.,Druk nogmaals op {button_scenario} om het scenario te herstarten vanaf het begin.,再次按{button_scenario}以从头重新开始场景。
+hint_3_press_scenario_3,Press {button_scenario} again to start a new game in scenario mode. Note: the scenario can be pretty difficult for new players.,Druk nogmaals op {button_scenario} om een nieuw spel te starten in scenario-modus. Opmerking: het scenario is vrij lastig voor beginnende spelers.,再次按{button_scenario}以在场景模式中开始新游戏。注意：该场景对于新玩家可能相当困难。
+hint_3_press_scenario_4,Press {button_scenario} again to start a new game in scenario mode.,Druk nogmaals op {button_scenario} om een nieuw spel te starten in scenario-modus.,再次按{button_scenario}以在场景模式中开始新游戏。
+hint_3_pressure_off,Air pressure simulation off.,Luchtdruksimulatie uitgeschakeld.,气压模拟关闭。
+hint_3_pressure_on,Air pressure simulation on.,Luchtdruksimulatie ingeschakeld.,气压模拟开启。
+hint_3_pressure_on_2,See the {button_weather} menu to change the actual air pressure.,Zie het menu {button_weather} om de actuele luchtdruk te veranderen.,参见{button_weather}菜单更改实际气压。
+hint_3_pressure_on_3,"Note: this affects flight levels, not altitudes.","Merk op dat dit alleen invloed heeft op flight levels, niet op altitudes.",注意：这影响飞行高度层，而非高度。
+hint_3_pressure_set_std,Standard pressure.,Standaard luchtdruk.,标准气压。
+hint_3_pressure_standard,Pressure is now fixed at standard pressure.,De luchtdruk is nu vastgezet op standaardluchtdruk.,气压现在固定为标准气压。
+hint_3_pressure_tip,See the {menu_realism} menu to switch off pressure simulation.,Zie het {menu_realism}-menu om luchtdruksimulatie uit te schakelen.,参见{menu_realism}菜单关闭气压模拟。
+hint_3_randomweather_menu,See the {button_realism} menu to switch off random weather.,Zie het menu {button_realism} om willekeurige weersomstandigheden uit te schakelen.,参见{button_realism}菜单关闭随机天气。
+hint_3_randomweather_off,No weather when starting a new game.,Geen weer wanneer je een nieuw spel start.,开始新游戏时无天气。
+hint_3_randomweather_on,Random weather when starting a new game.,Willekeurig weer wanneer je een nieuw spel start.,开始新游戏时随机天气。
+hint_3_range,Range circles {STATE} miles.,Afstandcirkels {STATE} mijl.,范围圆圈{STATE}海里。
+hint_3_range_off,Range circles off.,Afstandcirkels uit.,范围圆圈关闭。
+hint_3_rdf_off,Radio Direction Finding off.,Radio Direction Finding uitgeschakeld.,无线电测向关闭。
+hint_3_rdf_on,Radio Direction Finding on: marked planes during radio transmissions.,Radio Direction Finding ingeschakeld: dit markeert vliegtuigen tijdens een radiotransmissie.,无线电测向开启：无线电传输期间标记飞机。
+hint_3_remove_1,The {button_remove} button only removes the custom airport that was imported using the {button_import} button.,De knop {button_remove} verwijdert alleen de custom airport die was geimporteerd met de {button_import}-knop.,{button_remove}按钮仅移除使用{button_import}按钮导入的自定义机场。
+hint_3_remove_2,Press {button_remove} again to remove custom airport that was imported using the {button_import} button.,Druk nogmaals op {button_remove} om de custom airport te verwijderen die was geimporteerd met de {button_import}-knop.,再次按{button_remove}以移除使用{button_import}按钮导入的自定义机场。
+hint_3_remove_3,This will not remove the txt files that were manually copied to your device.,Dit zal niet de txt bestanden verwijderen die je handmatig naar je apparaat hebt gekopieerd.,这不会移除手动复制到设备的txt文件。
+hint_3_remove_4,Press it again to remove the custom airport {AIRPORT} from the game.,Druk nogmaals om de luchthaven {AIRPORT} te verwijderen uit het spel.,再次按以从游戏中移除自定义机场{AIRPORT}。
+hint_3_remove_5,The imported txt file has been removed from the game.,Het geimporteerde txt bestand is verwijderd uit het spel,导入的txt文件已从游戏中移除。
+hint_3_remove_6,The custom airport has been removed from the game.,De custom airport is verwijderd uit het spel.,自定义机场已从游戏中移除。
+hint_3_reset_colors_1,All colors are set to the default values.,Alle kleuren zijn teruggezet naar de standaardinstelling.,所有颜色已设置为默认值。
+hint_3_reset_colors_2,Press {button_defaults} again to reset all colors back to the default values.,Druk nogmaals op {button_defaults} om alle kleuren terug te zetten naar de standaardinstelling.,再次按{button_defaults}将所有颜色重置为默认值。
+hint_3_rewind_1,{button_rewind} will be available after a few minutes.,{button_rewind} zal over een paar minuten beschikbaar zijn.,{button_rewind}将在几分钟后可用。
+hint_3_rewind_2,{button_rewind} is only available in the Scenario mode (see the {button_traffic} menu).,{button_rewind} is alleen beschikbaar in Scenario-modus (zie het {button_traffic}-menu).,{button_rewind}仅在场景模式中可用（参见{button_traffic}菜单）。
+hint_3_ruler_1,"To remove a distance line, right click on the distance. To remove all distance lines, right click on the grey bar.","Om een afstandsmeting te verwijderen, klik je met de rechterknop op een afstand. Om alle afstandsmetingen te verwijderen, klik je met de rechterknop op de grijze balk.",要移除距离线，右键点击距离。要移除所有距离线，右键点击灰色栏。
+hint_3_runways,{COLOR} runways.,{COLOR} banen.,{COLOR}跑道。
+hint_3_rwy_change_1,Runway change will take {AMOUNT} minutes to finalize.,Baanverandering zal nog {AMOUNT} minuten nodig hebben.,跑道变更将需要{AMOUNT}分钟完成。
+hint_3_rwy_change_2,"While the airport prepares for the new configuration, no new approach clearances can be given.",Terwijl de luchthaven zich voorbereidt op de nieuwe configuratie kunnen geen ILS-klaringen worden gegeven.,当机场准备新配置时，无法给予新的进近许可。
+hint_3_rwy_change_3,Runway change.,Baanverandering,跑道变更。
+hint_3_rwy_change_4,Runway change completed.,Baanverandering is voltooid.,跑道变更已完成。
+hint_3_rwy_change_togo,Runway change procedure is in progress: {AMOUNT} minutes to go.,Baanverandering in uitvoering: {AMOUNT} minuten te gaan.,跑道变更程序进行中：还剩{AMOUNT}分钟。
+hint_3_rwy_change_warning,Warning: another runway change at this time will take {AMOUNT} minutes to complete.,Waarschuwing: opnieuw een andere baanconfiguratie aanvragen zal {AMOUNT} minuten in beslag nemen.,警告：此时再次变更跑道将需要{AMOUNT}分钟完成。
+hint_3_rwy_style_a,Runway style A: glideslope markers.,Baanstijl A: glideslope markeringen.,跑道样式A：下滑道标记。
+hint_3_rwy_style_b,Runway style B: 1 mile dashes and glideslope markers.,Baanstijl B: 1 mijl strepen en glideslope markeringen.,跑道样式B：1海里短划线和下滑道标记。
+hint_3_rwy_style_c,Runway style C: 2 mile markers.,Baanstijl C: 2 mijl markeringen.,跑道样式C：2海里标记。
+hint_3_rwy_style_d,Runway style D: 1 mile markers.,Baanstijl D: 1 mijl markeringen.,跑道样式D：1海里标记。
+hint_3_rwy_style_e,Runway style E: no markers.,Baanstijl E: geen markeringen.,跑道样式E：无标记。
+hint_3_scenario_1_1,Scenario 1: Parallel Approaches.,Scenario 1: Parallelle naderingen.,场景1：平行进近。
+hint_3_scenario_1_1b,Manage an inbound peak of 20 arrivals. Complete this challenge without any mistakes to unlock the next scenario at EGLL.,Beheers een inbound piek van 20 arrivals zonder enige fouten om deze uitdaging met succes te voltooien en het volgende scenario op EGLL beschikbaar te maken.,管理20架进场的峰值。无任何错误完成此挑战以解锁EGLL的下一个场景。
+hint_3_scenario_1_2,Scenario: Parallel Approaches. Manage an inbound peak of 20 arrivals without any mistakes to successfully complete this challenge.,Scenario: Parallelle naderingen. Beheers een inbound piek van 20 arrivals zonder enige fouten om deze uitdaging met succes te voltooien.,场景：平行进近。管理20架进场的峰值，无任何错误成功完成此挑战。
+hint_3_scenario_1_3,Your best time: {TIME}.,Je beste tijd: {TIME}.,您的最佳时间：{TIME}。
+hint_3_scenario_1_4,"To play scenario 2, switch to EGLL airport and then start the scenario.",Om scenario 2 te spelen switch je eerst naar luchthaven EGLL en dan start je het scenario.,要玩场景2，请切换到EGLL机场然后开始场景。
+hint_3_scenario_1_5,"This scenario mode is intended to challenge experienced players. If it gets too busy for your liking, then select {button_normal} mode in the {button_traffic} menu.","Deze scenario-modus is bedoeld om ervaren spelers uit te dagen. Als het je te druk wordt, selecteer dan {button_normal}-modus in het menu {button_traffic}.",此场景模式旨在挑战经验丰富的玩家。如果太繁忙，请在{button_traffic}菜单中选择{button_normal}模式。
+hint_3_scenario_1_6,Tip: press and hold the menu button to increase the simulation speed temporarily.,Tip: houd de menu-knop ingedrukt om de simulatiesnelheid tijdelijk te verhogen.,提示：按住菜单按钮临时增加模拟速度。
+hint_3_scenario_2_1,Scenario 2: Change of plans. ,Scenario 2: de planning verandert.,场景2：计划变更。
+hint_3_scenario_2_1b,"Due to tailwind, the runway configuration may change soon. Good luck with guiding 12 arrivals to the runway!",Als gevolg van rugwind zal de baanconfiguratie binnenkort veranderen. Veel succes met het begeleiden van 12 arrivals naar de landingsbaan!,由于顺风，跑道配置可能很快改变。祝您引导12架进场飞机至跑道好运！
+hint_3_scenario_2_3,"To play scenario 3, switch to EDDF airport and then start the scenario.",Om scenario 3 te spelen switch je eerst naar luchthaven EDDF en dan start je het scenario.,要玩场景3，请切换到EDDF机场然后开始场景。
+hint_3_scenario_2_4,"In one minute from now, the runway usage will be changed to the opposite direction.",Over 1 minuut zal het baangebruik veranderen naar de omgekeerde richting.,从现在起1分钟后，跑道使用将改为相反方向。
+hint_3_scenario_2_5,Runway configuration will change in {AMOUNT} seconds.,Baanconfiguratie zal over {AMOUNT} seconden veranderen.,跑道配置将在{AMOUNT}秒后改变。
+hint_3_scenario_2_6,Runway configuration is changed.,Baanconfiguratie is veranderd.,跑道配置已改变。
+hint_3_scenario_3_1,Scenario 3: Strong winds.,Scenario 3: krachtige wind.,场景3：强风。
+hint_3_scenario_3_1b,Land these 12 incoming planes safely and efficiently: all planes have to be on the ground within 35 minutes.,Land deze 12 inkomende vluchten veilig en efficient: alle kisten moeten binnen 35 minuten op de grond staan.,安全高效地降落这12架进场飞机：所有飞机必须在35分钟内降落。
+hint_3_scenario_3_2,"To play scenario 4, switch to KATL airport and then start the scenario.",Om scenario 4 te spelen switch je eerst naar luchthaven KATL en dan start je het scenario.,要玩场景4，请切换到KATL机场然后开始场景。
+hint_3_scenario_4_1,Scenario 4: Light and Heavy.,Scenario 4: Licht en zwaar.,场景4：轻型与重型。
+hint_3_scenario_4_1b,Land 15 very different types of aircraft within 30 minutes.,Land 15 uiteenlopende typen vliegtuigen binnen 30 minuten.,在30分钟内降落15种不同类型的飞机。
+hint_3_scenario_5_1,Scenario 5: Avoiding storms.,Scenario 5: Onweersbuien ontwijken.,场景5：避开风暴。
+hint_3_scenario_5_1b,"Land 12 planes within 32 minutes, while staying clear of the clouds.","Land 12 vliegtuigen binnen 32 minuten, terwijl je ze om alle wolken heen laat vliegen.",在32分钟内降落12架飞机，同时避开云层。
+hint_3_scenario_6_1,Scenario 6: Chaotic traffic peak.,Scenario 6: Chaotische verkeerspiek.,场景6：混乱交通高峰。
+hint_3_scenario_6_1b,Complete this challenge by landing all of the 25 arrivals at their correct destination within 30 minutes.,"Voltooi deze uitdaging door alle 25 vluchten op de juiste luchthaven te laten landen, binnen 30 minuten.",在30分钟内将所有25架进场飞机降落在正确目的地以完成此挑战。
+hint_3_scenario_7_1,Scenario 7: Late check-in.,Scenario 7: Late check-in.,场景7：晚点报到。
+hint_3_scenario_7_1b,Complete this challenge by landing 10 arrivals at a single runway within just 25 minutes.,"Voltooi deze uitdaging door 10 vluchten op de enige landingsbaan te laten landen, binnen slechts 25 minuten.",在仅25分钟内在单条跑道上降落10架进场飞机以完成此挑战。
+hint_3_scenario_8_1,Scenario 8: Short-haul.,Scenario 8: korte afstand.,场景8：短途。
+hint_3_scenario_8_1b,Complete the scenario by landing 15 planes at their destination within 24 minutes.,Voltooi het scenario door 15 vluchten op hun bestemming te krijgen binnen 24 minuten.,在24分钟内将15架飞机降落在目的地以完成场景。
+hint_3_scenario_9_1,Scenario 9: Perfect storm.,Scenario 9: Perfecte storm.,场景9：完美风暴。
+hint_3_scenario_9_1b,Complete the scenario by landing 14 planes within 31 minutes. Parallel runway 16R will be open for landings once the storm has passed the airport.,Voltooi het scenario door 14 vluchten binnen 31 minuten te laten landen. Parallelle baan 16R zal actief worden voor landingen nadat de onweersbui de luchthaven gepasseerd heeft.,在31分钟内降落14架飞机以完成场景。平行跑道16R将在风暴经过机场后开放降落。
+hint_3_scenario_ended_1,Scenario ended without succes; {AMOUNT} mistakes.,Scenario is geeindigd zonder succes: {AMOUNT} fouten.,场景结束，未成功；{AMOUNT}个错误。
+hint_3_scenario_ended_10,New York is next.,New York is de volgende.,纽约是下一个。
+hint_3_scenario_ended_11,Tokyo scenario unlocked!,Tokio scenario is unlocked!,东京场景已解锁！
+hint_3_scenario_ended_12,To Toronto!,Op naar Toronto!,前往多伦多！
+hint_3_scenario_ended_13,The final scenario is at YSSY!,Het laatste scenario is in YSSY!,最终场景在YSSY！
+hint_3_scenario_ended_14,All 9 scenarios accomplished!,Alle 9 scenarios zijn voltooid!,所有9个场景已完成！
+hint_3_scenario_ended_15,Congratulations! You completed the scenario in {AMOUNT} without any mistakes! ,Gefeliciteerd! Je heb het scenario foutloos voltooid in {AMOUNT}!,恭喜！您在{AMOUNT}内无任何错误完成场景！
+hint_3_scenario_ended_16,"Scenario completed without mistakes, but slower than your best attempt (+{AMOUNT})","Het scenario is voltooid zonder fouten, maar langzamer dan je beste poging (+{AMOUNT}).",场景完成无错误，但比您的最佳尝试慢（+{AMOUNT}）。
+hint_3_scenario_ended_17,Congratulations! You completed the scenario in {AMOUNT1} ({AMOUNT2} faster)!,Gefeliciteerd! Je heb het scenario voltooid in {AMOUNT1} ({AMOUNT2} sneller)!,恭喜！您在{AMOUNT1}内完成场景（快{AMOUNT2}）！
+hint_3_scenario_ended_2,Scenario ended without succes; 1 mistake.,Scenario is geeindigd zonder succes: {AMOUNT} fouten.,场景结束，未成功；1个错误。
+hint_3_scenario_ended_3,Scenario ended without succes; time limit exceeded by {AMOUNT}.,Scenario is geeindigd zonder succes: tijdslimiet is overschreden met {AMOUNT}.,场景结束，未成功；时间限制超出{AMOUNT}。
+hint_3_scenario_ended_4,Perfect! You completed the scenario in {AMOUNT} without any mistakes!,Perfect! Je heb het scenario foutloos voltooid in {AMOUNT}.,完美！您在{AMOUNT}内无任何错误完成场景！
+hint_3_scenario_ended_5,This has unlocked the next scenario at EGLL.,Dit geeft toegang tot het volgende scenario in EGLL.,这已解锁EGLL的下一个场景。
+hint_3_scenario_ended_6,More scenarios are available in the full version.,Meer scenario鈥檚 zijn beschikbaar in de volledige versie.,更多场景在完整版本中可用。
+hint_3_scenario_ended_7,"The next scenario, at EDDF, will be more difficult.","Het volgende scenario, op EDDF, zal moeilijker zijn.",下一个场景在EDDF，将更加困难。
+hint_3_scenario_ended_8,Next up: KATL scenario.,Volgende scenario: KATL.,接下来：KATL场景。
+hint_3_scenario_ended_9,See you at LFPG!,Tot ziens in LFPG!,在LFPG见！
+hint_3_scenario_timeout_1,Scenario time limit exceeded.,Scenario tijdslimiet overschreden.,场景时间限制超出。
+hint_3_scenario_timeout_2,These scenarios are indeed pretty hard and challenging - even for seasoned players! Perhaps give it a go another time.,Deze scenario鈥檚 zijn vrij moeilijk 鈥?zelfs voor ervaren spelers! Probeer het anders later nog eens.,这些场景确实相当困难和具有挑战性 - 即使对于经验丰富的玩家！也许改天再试一次。
+hint_3_scenario_timeout_3,"Try to vector the planes more closely together onto the ILS, but keep an eye on the different wake turbulence categories.","Probeer de vliegtuigen dichter op elkaar naar de ILS-lijn te leiden, maar let wel op de turbulentie.",尝试将飞机更紧密地引导至ILS，但注意不同的尾流湍流类别。
+hint_3_scenario_timeout_4,Make use of parallel approaches to avoid wake turbulence as much as possible.,Maak gebruik van parallelle naderingen om turbulentie zoveel mogelijk te voorkomen.,利用平行进近尽可能避免尾流湍流。
+hint_3_scenario_timeout_5,Press the scenario button to try again.,Druk op de scenario-knop om het opnieuw te proberen.,按场景按钮重试。
+hint_3_second,second,seconde,秒
+hint_3_second_airport,"Another airport has opened, but only planes with an additional '{TAG}' tag may land there.","Een andere luchthaven is geopend, maar alleen vliegtuigen met een extra '{TAG}' label mogen daar landen.",另一个机场已开放，但只有带有额外'{TAG}'标签的飞机可以在那里降落。
+hint_3_second_labels,{COLOR} secondary arrival labels.,{COLOR} secondaire arrival labels.,{COLOR}次要进场标签。
+hint_3_seconds,seconds,seconde,秒
+hint_3_sep_circles,Separation circles {STATE}.,Separatiecirkels {STATE}.,间隔圆圈{STATE}。
+hint_3_set_cap_1,The number of planes to control will be limited to about {AMOUNT} planes at a time,Het aantal vliegtuigen dat je tegelijkertijd moet begeleiden is gelimiteerd op ongeveer {AMOUNT} vliegtuigen,要控制的飞机数量将限制在大约{AMOUNT}架飞机。
+hint_3_set_flow_1,Traffic flow is fixed at {AMOUNT} planes per hour,Stroom van verkeer is vastgezet op {AMOUNT} vliegtuigen per uur,交通流固定为每小时{AMOUNT}架飞机。
+hint_3_set_flow_2,Traffic flow varies between {AMOUNT1} and {AMOUNT2} planes per hour,Stroom van verkeer varieert tussen {AMOUNT1} en {AMOUNT2} vliegtuigen per uur,交通流在每小时{AMOUNT1}到{AMOUNT2}架飞机之间变化。
+hint_3_set_flow_3,Traffic flow is fixed at {AMOUNT1} arrivals per hour and {AMOUNT2} departures per hour,Stroom van verkeer is vastgezet op {AMOUNT1} arrivals en {AMOUNT2} departures per uur,交通流固定为每小时{AMOUNT1}架进场和{AMOUNT2}架离场。
+hint_3_set_skill_1,The number of planes to control is fixed at about {AMOUNT} planes at a time,Het aantal vliegtuigen dat je tegelijkertijd moet begeleiden is vastgezet op ongeveer {AMOUNT} vliegtuigen,要控制的飞机数量固定在大约{AMOUNT}架飞机。
+hint_3_set_skill_2,quiet traffic,rustig verkeer,安静交通
+hint_3_set_skill_3,average traffic,gemiddeld verkeer,平均交通
+hint_3_set_skill_4,busy traffic,druk verkeer,繁忙交通
+hint_3_set_skill_5,The number of planes to control is set to about {AMOUNT} planes at a time,Het aantal vliegtuigen dat je tegelijkertijd moet begeleiden is ingesteld op ongeveer {AMOUNT} vliegtuigen,要控制的飞机数量设置为大约{AMOUNT}架飞机。
+hint_3_shift_label,Tip: you can move the label position by holding Shift key while dragging the mouse.,Tip: je kan de labelpositie veranderen door Shift ingedrukt te houden terwijl je met de muis sleept.,提示：您可以通过按住Shift键同时拖动鼠标来移动标签位置。
+hint_3_sid_disable_1,Heading selected; {button_sid} mode is now deactivated and altitude setting is lowered.,Heading geselecteerd; {button_sid}-mode is nu deactiveerd en de altitude-instelling is verlaagd.,航向已选择；{button_sid}模式现已停用，高度设置已降低。
+hint_3_sid_disable_2,Heading selected; {button_sid} mode is now deactivated.,Heading geselecteerd; {button_sid}-mode is nu deactiveerd.,航向已选择；{button_sid}模式现已停用。
+hint_3_signif_clouds,Significant clouds.,Significante wolken.,显著云层。
+hint_3_skill_can_change,"Skill level can change like in {button_normal} mode, but the skill level will be limited by the {menu_traffic_3} value.","Skillwaarde kan veranderen zoals in {button_normal}-modus, maar de skillwaarde zal worden begrensd door {menu_traffic_3}.",技能水平可以像{button_normal}模式一样变化，但技能水平将受{menu_traffic_3}值限制。
+hint_3_skill_fixed_1,Number of planes is fixed at {AMOUNT}. Goals/scores disabled. Set skill to 0 to close the airspace.,Aantal vliegtuigen is vastgezet op {AMOUNT}. Doelen/highscores uitgeschakeld. Zet skill op 0 om het luchtruim te sluiten.,飞机数量固定为{AMOUNT}。目标/分数已禁用。将技能设置为0以关闭空域。
+hint_3_skill_fixed_2,Number of planes to control is now fixed at about {AMOUNT}.,Aantal vliegtuigen is vastgezet op ongeveer {AMOUNT}.,要控制的飞机数量现在固定在大约{AMOUNT}。
+hint_3_skill_fixed_3,Number of planes to control is now fixed at about {AMOUNT}. Goals and high scores disabled. Number of runways can be set in the {button_runways} menu.,Aantal vliegtuigen is vastgezet op ongeveer {AMOUNT}. Doelen en highscores zijn uitgeschakeld. Aantal banen kan worden ingesteld in het {button_runways}-menu.,要控制的飞机数量现在固定在大约{AMOUNT}。目标和最高分已禁用。跑道数量可在{button_runways}菜单中设置。
+hint_3_skill_is_fixed,Skill level is fixed.,Skillwaarde is vastgezet.,技能水平已固定。
+hint_3_skill_up_1,"Tip: if it gets too busy for your liking, you can switch to {button_custom} traffic mode to lower the number of planes. See the {button_traffic} menu.","Tip: als het je te druk wordt, kun je switchen naar verkeersmodus {button_custom}. Zie het menu {button_traffic}.",提示：如果太繁忙，您可以切换到{button_custom}交通模式以减少飞机数量。参见{button_traffic}菜单。
+hint_3_skill_up_2,"Note: as this is a custom airport, goals and high scores are disabled.","Merk op dat dit een custom airport is, dus goals en highscores zijn uitgeschakeld.",注意：由于这是自定义机场，目标和最高分已禁用。
+hint_3_sound_error_1,Sound mode set at 1,Geluidmodus staat nu op 1.,声音模式设置为1
+hint_3_soundmode_0,Sound off.,Geluid uit.,声音关闭。
+hint_3_soundmode_1,Sound mode 1: alerts only.,Geluidmodus 1: alleen alerts.,声音模式1：仅警报。
+hint_3_soundmode_2,Sound mode 2: alerts and speech but no readbacks (default).,Geluidmodus 2: alerts en spraak maar geen readbacks (standaard).,声音模式2：警报和语音但无复诵（默认）。
+hint_3_soundmode_3a,Sound mode 3: alerts and speech with readbacks.,Geluidmodus 3: alerts en spraak met readbacks.,声音模式3：警报和语音带复诵。
+hint_3_soundmode_3b,"Sound mode 3: speech including readbacks, via android text-to-speech (English voices).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (Engelse stemmen).",声音模式3：语音包括复诵，通过安卓文本转语音（英语语音）。
+hint_3_soundmode_3c,"Sound mode 3: speech including readbacks, via android text-to-speech (using English US and UK languages).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (gebruikmakend van Engelse VS en VK stemmen).",声音模式3：语音包括复诵，通过安卓文本转语音（使用英语美式和英式语言）。
+hint_3_soundmode_3d,"Sound mode 3: speech including readbacks (via Windows TTS, using the English US and UK languages).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (via Windows TTS met Engelse VS en VK stemmen).",声音模式3：语音包括复诵（通过Windows TTS，使用英语美式和英式语言）。
+hint_3_soundmode_3e,Note: volume radio is 0.,Let op: het volume van de radio staat op 0.,注意：无线电音量为0。
+hint_3_speechrate_auto,Automatic speech rate.,Automatische spraaksnelheid.,自动语音速率。
+hint_3_speechrate_fixed,Fixed speech rate.,Vaste spraaksnelheid.,固定语音速率。
+hint_3_speechrate_set,Speech rate set at {STATE}%.,Spraaksnelheid is {STATE}%.,语音速率设置为{STATE}%。
+hint_3_speed_auto_on_1,"Automatic speed adjustment: 1x when interacting with planes, and 1.5x when idle.","Automatische snelheidsaanpassing: 1x wanneer je met een vliegtuig bezig bent, en 1.5x als je niks doet.",自动速度调整：与飞机交互时1x，空闲时1.5x。
+hint_3_speed_auto_set,Speed will switch between 1.0x and {AMOUNT}x.,Snelheid zal switchen tussen 1.0x en {AMOUNT}x.,速度将在1.0x和{AMOUNT}x之间切换。
+hint_3_speed_fixed,Fixed speed.,Vaste snelheid.,固定速度。
+hint_3_speed_realtime,Speed 1x.,Snelheid 1x.,速度1x。
+hint_3_speed_set,Simulation speed set to to {AMOUNT}x.,Simulatiesnelheid ingesteld op {AMOUNT}x.,模拟速度设置为{AMOUNT}x。
+hint_3_start_new_1,"To start a new game, doubletap the {AIRPORT} button.","Om een nieuw spel te starten, dubbelklik je op de knop {AIRPORT}.",要开始新游戏，请双击{AIRPORT}按钮。
+hint_3_start_new_2,"To start a new game, doubleclick the {AIRPORT} button.","Om een nieuw spel te starten, dubbelklik je op de knop {AIRPORT}.",要开始新游戏，请双击{AIRPORT}按钮。
+hint_3_startnewgame_1,Press {button_newgame} again to start a new game.,Druk op {button_newgame} om een nieuw spel te starten.,再次按{button_newgame}以开始新游戏。
+hint_3_startnewgame_2,Press the {AIRPORT} button again to start a new game.,Druk nogmaals op {AIRPORT} om een nieuw spel te starten.,再次按{AIRPORT}按钮以开始新游戏。
+hint_3_startnewgame_3,Press the button again to start a new game.,Druk nogmaals op de knop om een nieuw spel te starten.,再次按按钮以开始新游戏。
+hint_3_startnewgame_4,Loading airport,Luchthaven wordt geladen,正在加载机场
+hint_3_sweep_rpm,"The antenna rotates at {AMOUNT} RPM, and plane positions are updated less frequently.","De antenne roteert met {AMOUNT} RPM, en de posities van de vliegtuigen wordt minder frequent geupdate.",天线以{AMOUNT} RPM旋转，飞机位置更新频率较低。
+hint_3_sweep_set,Radar sweep is set at {AMOUNT} {UNIT}.,Radarsweep is ingesteld op {AMOUNT} {UNIT}.,雷达扫描设置为{AMOUNT}{UNIT}。
+hint_3_swipe_disable,Heading-by-swipe disabled.,Heading-door-swipe uitgeschakeld.,滑动航向已禁用。
+hint_3_swipe_enable,Heading-by-swipe enabled.,Heading-door-swipe ingeschakeld.,滑动航向已启用。
+hint_3_ta_default,Default transition altitude for {AIRPORT}.,Standaard transition altitude voor luchthaven {AIRPORT}.,{AIRPORT}的默认过渡高度。
+hint_3_ta_raised,Transition altitude is set 1000 feet higher than the default TA.,Transition altitude is nu 1000 voet hoger dan de normale TA.,过渡高度比默认TA高1000英尺。
+hint_3_ta_raised_2,This allows for approaches from altitudes up to 4000 feet,Dit maakt naderingen mogelijk vanaf hoogtes tot wel 4000 voet.,这允许从高达4000英尺的高度进近。
+hint_3_target_style,Target style,Targetstijl,目标样式
+hint_3_targets,{COLOR} targets.,,{COLOR}目标。
+hint_3_targets_same_label,Target color same as label color.,Targetkleur hetzelfde als de labelkleur.,目标颜色与标签颜色相同。
+hint_3_text_input,"Text Input (A-Z, 0-9) {STATE}.","Tekstinput (A-Z, 0-9) {STATE}.",文本输入（A-Z，0-9）{STATE}。
+hint_3_timer_30m,Timer is set at 30 minutes. You can choose what action will happen after the timer runs out.,Timer is ingesteld op 30 minuten. Je kan kiezen welke actie zal gebeuren als de timer afgelopen is.,计时器设置为30分钟。您可以选择计时器结束后将发生什么操作。
+hint_3_timer_action_end_1,Airspace will be automatically closed after timer runs out.,Het luchtruim zal vanzelf dichtgaan als de timer afgelopen is.,计时器结束后空域将自动关闭。
+hint_3_timer_action_end_2,"Note: when this happens, scoring goals and high scores will be disabled, until a new game is started.","Merk op dat wanneer dit gebeurt, het scoren van doelen en highscores niet meer mogelijk is, totdat een nieuw spel wordt gestart.",注意：当发生这种情况时，得分目标和最高分将被禁用，直到开始新游戏。
+hint_3_timer_action_exit,Game will automatically save and exit after timer runs out.,Het spel zal vanzelf opslaan en afsluiten als de timer afgelopen is.,计时器结束后游戏将自动保存并退出。
+hint_3_timer_action_msg,Game will only display a message when the timer runs out.,Het spel zal alleen een bericht laten zien als de timer afgelopen is.,计时器结束后游戏将仅显示消息。
+hint_3_timer_inactive,Timer is available in the full version.,De timer is beschikbaar in de volledige versie.,计时器在完整版本中可用。
+hint_3_timer_off,Timer off.,Timer uit.,计时器关闭。
+hint_3_timer_on,Timer on.,Timer aan.,计时器开启。
+hint_3_timer_quit,Timer: game will exit now.,Timer: spel zal nu afsluiten.,计时器：游戏现在将退出。
+hint_3_timer_reset,Timer reset.,Timer is gereset.,计时器重置。
+hint_3_timer_resumed,Timer resumed.,Timer is hervat.,计时器已恢复。
+hint_3_timer_set_1,Timer set at 1 minute.,Timer ingesteld op 1 minuut.,计时器设置为1分钟。
+hint_3_timer_set_2,Timer set at {AMOUNT} minutes.,Timer ingesteld op {AMOUNT} minuten.,计时器设置为{AMOUNT}分钟。
+hint_3_timer_set_3,Plane countdown set at 1 landing.,Vliegtuigteller ingesteld op 1 landing.,飞机倒计时设置为1次降落。
+hint_3_timer_set_4,Plane countdown set at {AMOUNT} landings.,Vliegtuigteller ingesteld op {AMOUNT} landingen.,飞机倒计时设置为{AMOUNT}次降落。
+hint_3_timer_togo,Timer: {AMOUNT} seconds to go.,Timer: {AMOUNT} seconden te gaan.,计时器：还剩{AMOUNT}秒。
+hint_3_timer_togo_close_1,Timer: 1 minute to go until airspace closure.,Timer: 1 minuut te gaan totdat het luchtruim sluit.,计时器：距离空域关闭还剩1分钟。
+hint_3_timer_togo_close_2,Note: high scores and goals will be disabled until a new game is started.,Opmerking: highscores en doelen zullen worden gedeactiveerd totdat een nieuw spel wordt gestart.,注意：最高分和目标将被禁用，直到开始新游戏。
+hint_3_timer_togo_close_3,Warning: this will end the scenario unsuccessfully.,Waarschuwing: dit zal het scenario zonder succes laten eindigen.,警告：这将使场景不成功地结束。
+hint_3_timer_togo_quit_1,Timer: 1 minute to go until auto exit.,Timer: 1 minuut te gaan totdat het spel af zal sluiten.,计时器：距离自动退出还剩1分钟。
+hint_3_timer_togo_quit_2,Thanks for trying the demo version!,Bedankt voor het uitproberen van de demoversie!,感谢试用演示版本！
+hint_3_tip_circle_once_1,Separation circles on. Longpress for double size circles.,Separatiecirkels aan. Druk lang in om te switchen naar dubbele grootte.,间隔圆圈开启。长按获得双倍大小圆圈。
+hint_3_tip_circle_once_2,Separation circles on. Press {KEY} to toggle circles.,Separatiecirkels aan. Druk op {KEY} om de cirkels in of uit te schakelen.,间隔圆圈开启。按{KEY}切换圆圈。
+hint_3_tip_circle_twice,Tip: longpress the {button_circle} button to set the circles twice as large.,Tip: druk de knop {button_circle} lang in om de cirkels twee keer zo groot te maken.,提示：长按{button_circle}按钮将圆圈设置为两倍大小。
+hint_3_tip_circle_twice_2,"Separation circles on, double size. Longpress to switch to default size.","Separatiecirkels aan, dubbele grootte. Druk lang in om te switchen naar stardaardgrootte.",间隔圆圈开启，双倍大小。长按切换到默认大小。
+hint_3_tip_curve,Tip: longpress the {button_line} button to toggle curved heading lines off.,Tip: druk de knop {button_line} lang in om gekromde lijnen in of uit te schakelen.,提示：长按{button_line}按钮切换曲线航向线关闭。
+hint_3_tip_enable_pressure,"Tip: to enable air pressure simulation, go to the {button_realism} menu and press the {button_pressure} button.","Tip: om luchtdruk-simulatie aan te zetten, ga je naar het menu {button_realism} en druk je op de knop {button_pressure}.",提示：要启用气压模拟，请转到{button_realism}菜单并按{button_pressure}按钮。
+hint_3_tip_open_rwys,"Tip: to open more runways, go to the {button_runways} menu and increase the {menu_runways_8}.","Tip: om meer banen te openen, ga je naar het menu {button_runways} en verhoog je de {menu_runways_8}.",提示：要开放更多跑道，请转到{button_runways}菜单并增加{menu_runways_8}。
+hint_3_toggle_keyboard,Toggled soft keyboard.,,切换软键盘。
+hint_3_type_code,Tip: type the airport code for quicker navigation.,Tip: typ een airportcode in voor snellere navigatie.,提示：输入机场代码以更快导航。
+hint_3_ui_dark,Dark user interface.,Donkere gebruikersinterface.,深色用户界面。
+hint_3_ui_light,Light user interface.,Lichte gebruikersinterface.,浅色用户界面。
+hint_3_update_rate_default_1,Default update rate (2 Hz / battery efficient).,Standaard updatefrequentie (2 Hz / batterij-efficient).,默认更新率（2 Hz / 节能）。
+hint_3_update_rate_default_2,Default update rate (2 Hz).,Standaard updatefrequentie (2 Hz).,默认更新率（2 Hz）。
+hint_3_update_rate_fast_1,Fast update rate enabled.,Hoge updatefrequentie ingeschakeld.,快速更新率已启用。
+hint_3_update_rate_fast_2,"Tip: for smoother plane movement, also set {button_sweep} to 0 seconds.",Tip: voor soepelere vliegtuigbewegingen kun je {button_sweep} op 0 seconde zetten.,提示：为了更平滑的飞机移动，也将{button_sweep}设置为0秒。
+hint_3_update_rate_fast_3,Fast update rate enabled: smoother plane movement but slightly less battery efficient.,Hoge updatefrequentie ingeschakeld: soepelere vliegtuigbewegingen maar wel iets hoger batterijgebruik.,快速更新率已启用：更平滑的飞机移动但电池效率稍低。
+hint_3_var_weather,Variable weather.,Weersomstandigheden kunnen veranderen.,可变天气。
+hint_3_view_locked,View is locked.,De radar is vergrendeld.,视图已锁定。
+hint_3_view_locked_2,View is now locked (panning/zooming is not possible anymore).,Scherm is nu vergrendeld (pannen/zoomen is niet meer mogelijk).,视图现在已锁定（平移/缩放不再可能）。
+hint_3_view_unlocked,View is unlocked (panning/zooming enabled).,Scherm is ontgrendeld (pannen/zoomen ingeschakeld).,视图已解锁（平移/缩放已启用）。
+hint_3_warning_goals,Warning: changing the skill level disables scoring goals and high scores.,Waarschuwing: het veranderen van de skill zal doelen en highscores uitschakelen.,警告：更改技能水平将禁用得分目标和最高分。
+hint_3_wind_calm,Wind is calm.,De wind is kalm.,风平静。
+hint_3_wind_disabled,Note: wind is currently disabled.,Merk op dat de wind uitgeschakeld is.,注意：风当前已禁用。
+menu_airport_2,More options in the full version:,Meer opties in de volledige versie:,完整版本中的更多选项：
+menu_airport_3,More airports in the full version:,Meer luchthavens in de volledige versie:,完整版本中的更多机场：
+menu_airport_4,Check it out in the Play Store:,Check het in de Play Store:,在Play商店查看：
+menu_airport_5,for more info,voor meer info,了解更多信息
+menu_airspaceclosed,airspace closed,luchtruim gesloten,空域关闭
+menu_altitude,Altitude,,高度
+menu_controls_1,Mouse controls for planes:,Muisbediening voor vliegtuigen:,飞机的鼠标控制：
+menu_controls_10,Text Input:,Tekstinput:,文本输入：
+menu_controls_11,Add spaces between inputs.,Voeg spaties toe tussen inputs.,在输入之间添加空格。
+menu_controls_12,For example:,Bijvoorbeeld:,例如：
+menu_controls_13,Keypad Text Input ({KEY} to enable):,Keypad Tekstinput ({KEY} om in te schakelen):,键盘文本输入（按{KEY}启用）：
+menu_controls_14,Keypad Text Input:,Keypad Tekstinput:,键盘文本输入：
+menu_controls_15,"No spaces required when using these Keypad Text Inputs, for example:","Geen spaties nodig bij deze Keypad inputs, bijvoorbeeld:",使用这些键盘文本输入时不需要空格，例如：
+menu_controls_2,Left Click to toggle a setting.,Linkerknop om te veranderen,左键点击切换设置。
+menu_controls_3,Right Click to revert to default.,Rechterknop voor standaard,右键点击恢复默认。
+menu_controls_4,Mouse controls for settings:,Muisbediening voor instellingen:,设置的鼠标控制：
+menu_controls_5,Key controls for planes:,Toetsen voor vliegtuigen:,飞机的按键控制：
+menu_controls_6,Press key...,Druk op een toets鈥?,按按键...
+menu_controls_7,Click to change a key binding.,Klik om een keybinding te maken,点击更改按键绑定。
+menu_controls_8,Key controls for settings:,Keycontrols voor instellingen:,设置的按键控制：
+menu_controls_9,Text Input ({KEY} to enable):,Tekstinput ({KEY} om in te schakelen):,文本输入（按{KEY}启用）：
+menu_controls_addcloud,Add Cloud,Wolk toevoegen,添加云
+menu_controls_centerscreen,Center of screen,Midden scherm,屏幕中心
+menu_controls_cursor,Cursor,,光标
+menu_controls_decrease,Decrease,Kleiner,减少
+menu_controls_distance,Distance Tool,Afstandsmeter,距离工具
+menu_controls_double,Double,Dubbel,双倍
+menu_controls_down,Down,Omlaag,向下
+menu_controls_drag,Drag,Slepen,拖动
+menu_controls_expedite,Expedite,,加速
+menu_controls_increase,Increase,Groter,增加
+menu_controls_keypad,Keypad,,键盘
+menu_controls_left,Left,Links,向左
+menu_controls_leftclick,Left Click,Linkerklik,左键点击
+menu_controls_leftright,Left + Right Click,Links + Rechtsklik,左+右键点击
+menu_controls_menu,Menu,,菜单
+menu_controls_middleclick,Middle Click,Middelklik,中键点击
+menu_controls_panview,Pan View,,平移视图
+menu_controls_quitgame,Quit Game,Spel sluiten,退出游戏
+menu_controls_resetview,Reset View,,重置视图
+menu_controls_right,Right,Rechts,向右
+menu_controls_rightclick,Right Click,Rechterklik,右键点击
+menu_controls_scroll,Scroll,,滚动
+menu_controls_select,Select Plane,Selecteer vliegtuig,选择飞机
+menu_controls_simspeed,Sim Speed,Simsnelheid,模拟速度
+menu_controls_textinput,Text Input,Tekst Input,文本输入
+menu_controls_up,Up,Omhoog,向上
+menu_controls_vnormal,Normal Speed,Normale Snelheid,正常速度
+menu_controls_zoomin,Zoom In,Inzoomen,放大
+menu_controls_zoomout,Zoom Out,Uitzoomen,缩小
+menu_controls_zoomrel,Zoom Relative,Zoom relatief,相对缩放
+menu_controls_zoomstepless,Zoom Stepless,Zoom staploos,无级缩放
+menu_controls_zoomsteps,Zoom Steps,Zoom stappen,缩放步进
+menu_controls_zoomtoggle,Zoom Toggle,,缩放切换
+menu_direction,Turn Direction,Stuurrichting,转向方向
+menu_display_1,Longpress for extra option,Lang indrukken voor extra optie,长按获取额外选项
+menu_flow,flow,,流量
+menu_flow_in,flow in,,进场流量
+menu_flow_out,out,,离场流量
+menu_heading,Heading,,航向
+menu_headings,Headings,,航向
+menu_morehelp,for more help,voor meer hulp,获取更多帮助
+menu_newgame,{button_newgame} will enable score,{button_newgame} zal score activeren,{button_newgame}将启用分数
+menu_page,page,pagina,页面
+menu_pause_1,click to start,klik om te beginnen,点击开始
+menu_pause_2,Paused - click to continue,Gepauzeerd - klik om door te gaan,已暂停 - 点击继续
+menu_pause_3,Paused - tap to continue,Gepauzeerd - raak aan om door te gaan,已暂停 - 点击继续
+menu_playtime,Playtime is {TIME}.,Speeltijd is {TIME}.,游戏时间为{TIME}。
+menu_pressure_1,Pressure,Luchtdruk,气压
+menu_rating,"If you enjoy this app, please support it by giving a rating :)","Als je deze app leuk vindt, kun je het supporten met beoordeling :)",如果您喜欢此应用，请通过评分支持它 :)
+menu_realism_1,Pilot delay,Traagheid piloten,飞行员延迟
+menu_reset_1,Tap current airport to reset,Druk op huidig vliegveld om te resetten,点击当前机场重置
+menu_reset_2,Click current airport to reset,Klik op huidig vliegveld om te resetten,点击当前机场重置
+menu_runways_1,Your score determines the number of active runways.,Je score bepaalt het aantal actieve banen.,您的分数决定活动跑道数量。
+menu_runways_2,All runways in this configuration will be active.,Alle banen in deze configuratie zullen actief worden.,此配置中的所有跑道都将激活。
+menu_runways_3,All runways in this configuration are active.,Alle banen in deze configuratie zijn actief.,此配置中的所有跑道都已激活。
+menu_runways_4,Planned runways:,Geplande banen:,计划跑道：
+menu_runways_5,Active runways:,Actieve banen:,活动跑道：
+menu_runways_6,All runways are active.,Alle banen zijn actief.,所有跑道都已激活。
+menu_runways_7,Runway configuration,Baanconfiguratie,跑道配置
+menu_runways_8,Custom score,Custom score,自定义分数
+menu_scenario,scenario,,场景
+menu_score,score,,分数
+menu_skill,skill,,技能
+menu_sound_0,Volume alerts,Volume alerts,警报音量
+menu_sound_1,Volume radio,Volume radio,无线电音量
+menu_speechrate,Speech rate,Spraaksnelheid,语音速率
+menu_speed,Speed,,速度
+menu_speed_1,Speed,Snelheid,速度
+menu_sweep_1,Radar sweep,Radarsweep,雷达扫描
+menu_time,time,tijd,时间
+menu_timer_1,Press '{button_on}' to reset the timer,Druk op '{button_on}' om de timer te resetten,按'{button_on}'重置计时器
+menu_timer_2,Keep track of your playtime by enabling the gameplay timer.,Houd je speeltijd in de gaten door de timer te activeren.,通过启用游戏计时器跟踪您的游戏时间。
+menu_timer_3,You decide when the play session is finished.,Jij bepaalt wanneer het spel afgelopen is.,您决定游戏会话何时结束。
+menu_timer_4,Timer is off,De timer staat uit.,计时器关闭
+menu_timer_5,Your timer is already finished!,Je timer is al afgelopen!,您的计时器已经结束！
+menu_timer_6,Play timer,Speeltijd,游戏计时器
+menu_timer_7,Landings,Landingen,降落
+menu_timer_8,Action,Actie,操作
+menu_traffic_1,Skill now,Skill nu,当前技能
+menu_traffic_2,Skill,,技能
+menu_traffic_3,Skill cap,,技能上限
+menu_traffic_4,Flow min,,最小流量
+menu_traffic_5,Flow max,,最大流量
+menu_traffic_6,Flow of arrivals,Flow van arrivals,进场流量
+menu_traffic_7,Flow of departures,Flow van departures,离场流量
+menu_unable,Unable to meet flow setting,Flowsetting kan niet behaald worden,无法满足流量设置
+menu_weather_1,Wind direction,Windrichting,风向
+menu_weather_2,Speed,Snelheid,速度
+stats_all_goals_1,You achieved all goals!,Je hebt alle doelen behaald!,您已实现所有目标！
+stats_all_goals_2,You achieved all goals! Weather option is now unlocked in the menu.,Je hebt alle doelen behaald! Weeroptie is nu ontgrendeld in het menu.,您已实现所有目标！天气选项现已在菜单中解锁。
+stats_all_no_goals_1,Goals cannot be scored in scenario mode.,Doelen kunnen niet gescoord worden in scenariomodus.,场景模式中无法计分目标。
+stats_all_no_goals_2,Goals cannot be scored in current custom game.,Doelen kunnen niet gescoord worden in een custom spel.,当前自定义游戏中无法计分目标。
+stats_continue_1,goals - tap to continue,Doelen 鈥?klik om door te gaan.,目标 - 点击继续
+stats_continue_2,goals - click to continue,Doelen 鈥?klik om door te gaan.,目标 - 点击继续
+stats_current_airport,Highest score at current airport ({AIRPORT}),Hoogste score op de huidige luchthaven ({AIRPORT}),当前机场最高分（{AIRPORT}）
+stats_current_playtime,Playtime of current session (excluding pauses) is {AMOUNT}.,Speeltijd van de huidige sessie (exclusief pauzes) is {AMOUNT},当前会话游戏时间（不包括暂停）为{AMOUNT}。
+stats_delay,1 delay,1 vertraging,1次延迟
+stats_delays,{NUMBER} delays,{NUMBER} vertragingen,{NUMBER}次延迟
+stats_diversion,1 diversion,1 uitwijker,1次改航
+stats_diversions,{NUMBER} diversions,{NUMBER} uitwijkers,{NUMBER}次改航
+stats_elapsedtime,elapsed time,verstreken tijd,已用时间
+stats_endurance,Endurance,Langdurig,耐力
+stats_endurance_goal,land {AMOUNT} planes in one game,land {AMOUNT} vliegtuigen in een spel,在一场游戏中降落{AMOUNT}架飞机
+stats_flawless,Flawless,Foutloos,完美无瑕
+stats_flawless_goal,land the first {AMOUNT} planes without any mistakes,land de eerste {AMOUNT} vliegtuigen zonder enige fouten,无任何错误降落前{AMOUNT}架飞机
+stats_flow_1,", {NUMBER} per hour",", {NUMBER} per uur",，每小时{NUMBER}
+stats_flow_2,", {NUMBER}/h",,，{NUMBER}/小时
+stats_goaround,1 go-around,1 doorstart,1次复飞
+stats_goarounds,{NUMBER} go-arounds,{NUMBER} doorstarts,{NUMBER}次复飞
+stats_highestscore,Highest score,Hoogste score,最高分
+stats_highscore,high score,hoogste score,最高分
+stats_incident,1 separation incident,1 separatieincident,1次间隔事件
+stats_incidents,{NUMBER} separation incidents,{NUMBER} separatieincidenten,{NUMBER}次间隔事件
+stats_landing,1 landing,,1次降落
+stats_landings,{NUMBER} landings,{NUMBER} landingen,{NUMBER}次降落
+stats_overall,Highest overall score (achieved at {AIRPORT}),Hoogste score overal (behaald op {AIRPORT}),总体最高分（在{AIRPORT}实现）
+stats_plane_1,1 plane controlled by you,1 vliegtuig onder jouw leiding,1架由您控制的飞机
+stats_plane_2,1 plane in control,1 in begeleiding,1架在控制中
+stats_planes_1,{NUMBER} planes controlled by you,{NUMBER} vliegtuigen onder jouw leiding,{NUMBER}架由您控制的飞机
+stats_planes_2,{NUMBER} planes in control,{NUMBER} in begeleiding,{NUMBER}架在控制中
+stats_playtime,playtime,speeltijd,游戏时间
+stats_safe,Safe,Veilig,安全
+stats_safe_goal,land the first {AMOUNT} planes without separation incidents,land de eerste {AMOUNT} vliegtuigen zonder separatieincidenten,无间隔事件降落前{AMOUNT}架飞机
+stats_scen_not_yet,Scenario for current airport not accomplished yet,Scenario van de huidige luchthaven is nog niet volbracht.,当前机场场景尚未完成。
+stats_scenarios_1,Scenarios completed without mistakes,Scenario鈥檚 volbracht zonder fouten,无错误完成的场景
+stats_scenarios_2,Scenarios completed,Scenario鈥檚 volbracht,已完成的场景
+stats_scenarios_3,Scenarios completed (see the {button_traffic} menu),Scenario鈥檚 volbracht (zie het {button_traffic}-menu),已完成的场景（参见{button_traffic}菜单）
+stats_scenarios_4,Scenarios completed (see the {button_traffic} menu at EHAM airport),Scenario鈥檚 volbracht (zie het {button_traffic}-menu op luchthaven EHAM),已完成的场景（参见EHAM机场的{button_traffic}菜单）
+stats_scenarios_5,Best scenario time,Beste scenariotijd,最佳场景时间
+stats_scenarios_6,Scenario has not been completed (see the {button_traffic} menu),Scenario is nog niet volbracht (zie het {button_traffic}-menu),场景尚未完成（参见{button_traffic}菜单）
+stats_scenarios_7,Best scenario time for current airport,Beste scenariotijd op de huidige luchthaven,当前机场最佳场景时间
+stats_scenarios_8,Lowest overall score,Laagste score overal,总体最低分
+stats_simhours,Total number of simulated hours elapsed,Totaal aantal verstreken uren,模拟时长
+stats_statistics,Statistics:,Statistieken:,统计：
+stats_systemtime,system time,systeemtijd,系统时间
+stats_takeoff,1 takeoff,1 start,1次起飞
+stats_takeoffs,{NUMBER} takeoffs,{NUMBER} starts,{NUMBER}次起飞
+stats_timerfinished,", timer finished",", timer afgelopen",，计时器结束
+stats_timeroff,", timer off",", timer uit",，计时器关闭
+stats_togo,", {NUMBER} to go",", {NUMBER} te gaan",，还剩{NUMBER}
+stats_totalplanes,Total number of planes landed,Totaal aantal landingen,总降落飞机数
+stats_totaltime,total time,totale tijd,总时间
+stats_unlocked,unlocked,toegankelijk,已解锁
