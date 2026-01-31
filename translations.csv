@@ -89,7 +89,7 @@ button_sid,SID,,SID
 button_skillcap,skill cap,skill cap,技评上限
 button_skillfixed,skill fixed,skill vast,技评固定
 button_smooth,smooth,soepel,平滑
-button_sound,sound,geluid,音量
+button_sound,sound,geluid,音频
 button_speed,speed,snelheid,速度
 button_standard,standard,standaard,标准
 button_store,Play Store,Play Store,应用商店
@@ -178,8 +178,8 @@ hint_0_skill,"The higher the {menu_skill} value, the more planes you will have t
 hint_0_sound_1,"To enable pilot speech output, set {button_sound} mode to 2 or 3.","Om de piloten te horen spreken, zet je de {button_sound}mode op 2 of 3.",要启用飞行员语音输出，将{button_sound}模式设置为2或3。
 hint_0_sound_2,"To enable pilot readback, see the {button_sound} menu and tap the {button_readbacks} button.","Om de piloten te horen antwoorden, zie het menu {button_sound} en klik op {button_readbacks}.",要启用飞行员复诵，请参见{button_sound}菜单并点击{button_readbacks}按钮。
 hint_0_sound_3,"To enable pilot readback, see the {button_sound} menu and click on the {button_readbacks} button.","Om de piloten te horen antwoorden, zie het menu {button_sound} en klik op {button_readbacks}.",要启用飞行员复诵，请参见{button_sound}菜单并点击{button_readbacks}按钮。
-hint_0_sound_4,Tap on the {button_sound} button to toggle between 3 sound modes. Tap {button_off} to mute all sounds.,Klik op de knop {button_sound} om te switchen tussen 3 geluidsmodi. Klik {button_off} om alle geluiden uit te zetten.,点击{button_sound}按钮在3种声音模式间切换。点击{button_off}静音所有声音。
-hint_0_sound_5,Click on the {button_sound} button to toggle between 3 sound modes. Click {button_off} to mute all sounds.,Klik op de knop {button_sound} om te switchen tussen 3 geluidsmodi. Klik {button_off} om alle geluiden uit te zetten.,点击{button_sound}按钮在3种声音模式间切换。点击{button_off}静音所有声音。
+hint_0_sound_4,Tap on the {button_sound} button to toggle between 3 sound modes. Tap {button_off} to mute all sounds.,Klik op de knop {button_sound} om te switchen tussen 3 geluidsmodi. Klik {button_off} om alle geluiden uit te zetten.,点击{button_sound}按钮在3种播报模式间切换。点击{button_off}静音所有播报。
+hint_0_sound_5,Click on the {button_sound} button to toggle between 3 sound modes. Click {button_off} to mute all sounds.,Klik op de knop {button_sound} om te switchen tussen 3 geluidsmodi. Klik {button_off} om alle geluiden uit te zetten.,点击{button_sound}按钮在3种播报模式间切换。点击{button_off}静音所有播报。
 hint_0_speed_1,Here you can adjust the simulation speed. For new players it's best to keep the {button_speed} at 1x ({button_realtime}).,Hier kun je de simulatiesnelheid aanpassen. Voor nieuwe spelers is het het best om {button_speed} op 1x ({button_realtime}) te houden.,在此调整模拟速度。对于新玩家，最好将{button_speed}保持在1x（{button_realtime}）。
 hint_0_speed_2,Press Esc to pause.,Druk op Esc om te pauzeren.,按Esc暂停。
 hint_0_speed_3,"Simulation speed is increased. Tap the {button_menu} button, then {button_speed}, to slow the game down.","De simulatiesnelheid is verhoogd. Klik op {button_menu}, dan {button_speed}, om het spel langzamer te maken.",模拟速度已提高。点击{button_menu}按钮，然后点击{button_speed}，以减慢游戏速度。
@@ -551,8 +551,8 @@ hint_3_orientation_fixed_3,"Screen orientation fixed at portrait, regardless of 
 hint_3_orientation_fixed_4,Screen orientation fixed at portrait.,Schermorientatie vastgezet op portret.,屏幕方向固定为竖屏。
 hint_3_parallel_approach_1,"Tip: to do parallel approaches without incidents, intercept the localizers with {ALT1} vertical separation. For example runway {RWY1} at {ALT2}, and runway {RWY2} at {ALT3}.","Tip: om gelijktijdige parallelle naderingen te doen, onderschep je de localizers met {ALT1} verticale separatie. Bijvoorbeeld baan {RWY1} op {ALT2}, en baan {RWY2} op {ALT3}.",提示：要进行无事故的平行进近，以{ALT1}垂直间隔截获定位器。例如跑道{RWY1}在{ALT2}高度，跑道{RWY2}在{ALT3}高度。
 hint_3_parallel_approach_2,Tip: longpress the {button_ils} button to make a plane cross the first localizer and capture the second localizer,Tip: houd de {button_ils}-knop lang ingedrukt om een vliegtuig de eerste localizer te kruisen en de tweede localizer te onderscheppen.,提示：长按{button_ils}按钮使飞机穿越第一个定位器并捕获第二个定位器。
-hint_3_pilot_delay_set_1,Pilot delay (plane reaction time) is set at {AMOUNT} seconds.,Traagheid piloten (reactietijd van vliegtuigen) is ingesteld op {AMOUNT} seconde.,飞行员延迟（飞机反应时间）设置为{AMOUNT}秒。
-hint_3_pilot_delay_set_2,Pilot delay is set at {AMOUNT} seconds.,Traagheid piloten is ingesteld op {AMOUNT} seconde.,飞行员延迟设置为{AMOUNT}秒。
+hint_3_pilot_delay_set_1,Pilot delay (plane reaction time) is set at {AMOUNT} seconds.,Traagheid piloten (reactietijd van vliegtuigen) is ingesteld op {AMOUNT} seconde.,飞行员操作延迟（飞机反应时间）设置为{AMOUNT}秒。
+hint_3_pilot_delay_set_2,Pilot delay is set at {AMOUNT} seconds.,Traagheid piloten is ingesteld op {AMOUNT} seconde.,飞行员操作延迟设置为{AMOUNT}秒。
 hint_3_plane_desel,Plane deselected.,Vliegtuig gedeselecteerd.,飞机已取消选择。
 hint_3_press_key_bind,"Press a key to bind to {KEY}, or press ESC to bind the default key.","Druk op een toets die je wil koppelen aan {KEY}, of druk op ESC om de standaard toets te koppelen.",按一个键绑定到{KEY}，或按ESC绑定默认键。
 hint_3_press_scenario_1,"Press {button_scenario} again to start a new game in scenario mode. Note: to play the next scenario, switch to {AIRPORT} first (via the {button_airport} menu).","Druk nogmaals op {button_scenario} om een nieuw spel te starten in scenario-modus. Opmerking: om het volgende scenario te spelen, switch je eerst naar {AIRPORT} (via het {button_airport}-menu).",再次按{button_scenario}以在场景模式中开始新游戏。注意：要玩下一个场景，请先切换到{AIRPORT}（通过{button_airport}菜单）。
@@ -671,14 +671,14 @@ hint_3_skill_fixed_3,Number of planes to control is now fixed at about {AMOUNT}.
 hint_3_skill_is_fixed,Skill level is fixed.,Skillwaarde is vastgezet.,技能水平已固定。
 hint_3_skill_up_1,"Tip: if it gets too busy for your liking, you can switch to {button_custom} traffic mode to lower the number of planes. See the {button_traffic} menu.","Tip: als het je te druk wordt, kun je switchen naar verkeersmodus {button_custom}. Zie het menu {button_traffic}.",提示：如果太繁忙，您可以切换到{button_custom}交通模式以减少飞机数量。参见{button_traffic}菜单。
 hint_3_skill_up_2,"Note: as this is a custom airport, goals and high scores are disabled.","Merk op dat dit een custom airport is, dus goals en highscores zijn uitgeschakeld.",注意：由于这是自定义机场，目标和最高分已禁用。
-hint_3_sound_error_1,Sound mode set at 1,Geluidmodus staat nu op 1.,声音模式设置为1
-hint_3_soundmode_0,Sound off.,Geluid uit.,声音关闭。
-hint_3_soundmode_1,Sound mode 1: alerts only.,Geluidmodus 1: alleen alerts.,声音模式1：仅警报。
-hint_3_soundmode_2,Sound mode 2: alerts and speech but no readbacks (default).,Geluidmodus 2: alerts en spraak maar geen readbacks (standaard).,声音模式2：警报和语音但无复诵（默认）。
-hint_3_soundmode_3a,Sound mode 3: alerts and speech with readbacks.,Geluidmodus 3: alerts en spraak met readbacks.,声音模式3：警报和语音带复诵。
-hint_3_soundmode_3b,"Sound mode 3: speech including readbacks, via android text-to-speech (English voices).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (Engelse stemmen).",声音模式3：语音包括复诵，通过安卓文本转语音（英语语音）。
-hint_3_soundmode_3c,"Sound mode 3: speech including readbacks, via android text-to-speech (using English US and UK languages).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (gebruikmakend van Engelse VS en VK stemmen).",声音模式3：语音包括复诵，通过安卓文本转语音（使用英语美式和英式语言）。
-hint_3_soundmode_3d,"Sound mode 3: speech including readbacks (via Windows TTS, using the English US and UK languages).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (via Windows TTS met Engelse VS en VK stemmen).",声音模式3：语音包括复诵（通过Windows TTS，使用英语美式和英式语言）。
+hint_3_sound_error_1,Sound mode set at 1,Geluidmodus staat nu op 1.,播报模式设置为1
+hint_3_soundmode_0,Sound off.,Geluid uit.,播报关闭。
+hint_3_soundmode_1,Sound mode 1: alerts only.,Geluidmodus 1: alleen alerts.,播报模式1：仅警报。
+hint_3_soundmode_2,Sound mode 2: alerts and speech but no readbacks (default).,Geluidmodus 2: alerts en spraak maar geen readbacks (standaard).,播报模式2：警报和语音但无复诵（默认）。
+hint_3_soundmode_3a,Sound mode 3: alerts and speech with readbacks.,Geluidmodus 3: alerts en spraak met readbacks.,播报模式3：警报和语音带复诵。
+hint_3_soundmode_3b,"Sound mode 3: speech including readbacks, via android text-to-speech (English voices).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (Engelse stemmen).",播报模式3：语音包括复诵，通过安卓文本转语音（英语语音）。
+hint_3_soundmode_3c,"Sound mode 3: speech including readbacks, via android text-to-speech (using English US and UK languages).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (gebruikmakend van Engelse VS en VK stemmen).",播报模式3：语音包括复诵，通过安卓文本转语音（使用英语美式和英式语言）。
+hint_3_soundmode_3d,"Sound mode 3: speech including readbacks (via Windows TTS, using the English US and UK languages).","Geluidmodus 3: spraak met readbacks, via android tekst-naar-spraak (via Windows TTS met Engelse VS en VK stemmen).",播报模式3：语音包括复诵（通过Windows TTS，使用英语美式和英式语言）。
 hint_3_soundmode_3e,Note: volume radio is 0.,Let op: het volume van de radio staat op 0.,注意：无线电音量为0。
 hint_3_speechrate_auto,Automatic speech rate.,Automatische spraaksnelheid.,自动语音速率。
 hint_3_speechrate_fixed,Fixed speech rate.,Vaste spraaksnelheid.,固定语音速率。
@@ -819,7 +819,7 @@ menu_pause_3,Paused - tap to continue,Gepauzeerd - raak aan om door te gaan,已�
 menu_playtime,Playtime is {TIME}.,Speeltijd is {TIME}.,游戏时间为{TIME}。
 menu_pressure_1,Pressure,Luchtdruk,气压
 menu_rating,"If you enjoy this app, please support it by giving a rating :)","Als je deze app leuk vindt, kun je het supporten met beoordeling :)",如果您喜欢此应用，请通过评分支持它 :)
-menu_realism_1,Pilot delay,Traagheid piloten,飞行员延迟
+menu_realism_1,Pilot delay,Traagheid piloten,飞行员操作延迟
 menu_reset_1,Tap current airport to reset,Druk op huidig vliegveld om te resetten,点击当前机场重置
 menu_reset_2,Click current airport to reset,Klik op huidig vliegveld om te resetten,点击当前机场重置
 menu_runways_1,Your score determines the number of active runways.,Je score bepaalt het aantal actieve banen.,您的分数决定活动跑道数量。
@@ -832,7 +832,7 @@ menu_runways_7,Runway configuration,Baanconfiguratie,跑道配置
 menu_runways_8,Custom score,Custom score,自定义分数
 menu_scenario,scenario,,场景
 menu_score,score,,分数
-menu_skill,skill,,技能
+menu_skill,skill,,技能水平
 menu_sound_0,Volume alerts,Volume alerts,警报音量
 menu_sound_1,Volume radio,Volume radio,无线电音量
 menu_speechrate,Speech rate,Spraaksnelheid,语音速率
