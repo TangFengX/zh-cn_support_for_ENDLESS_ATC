@@ -866,8 +866,8 @@ stats_continue_1,goals - tap to continue,Doelen 鈥?klik om door te gaan.,目标
 stats_continue_2,goals - click to continue,Doelen 鈥?klik om door te gaan.,目标 - 点击继续
 stats_current_airport,Highest score at current airport ({AIRPORT}),Hoogste score op de huidige luchthaven ({AIRPORT}),当前机场最高分（{AIRPORT}）
 stats_current_playtime,Playtime of current session (excluding pauses) is {AMOUNT}.,Speeltijd van de huidige sessie (exclusief pauzes) is {AMOUNT},当前会话游戏时间（不包括暂停）为{AMOUNT}。
-stats_delay,1 delay,1 vertraging,1次延迟
-stats_delays,{NUMBER} delays,{NUMBER} vertragingen,{NUMBER}次延迟
+stats_delay,1 delay,1 vertraging,1次延误
+stats_delays,{NUMBER} delays,{NUMBER} vertragingen,{NUMBER}次延误
 stats_diversion,1 diversion,1 uitwijker,1次改航
 stats_diversions,{NUMBER} diversions,{NUMBER} uitwijkers,{NUMBER}次改航
 stats_elapsedtime,elapsed time,verstreken tijd,已用时间
