@@ -40,7 +40,7 @@ button_fixed,fixed,vast,固定
 button_flowfixed,flow fixed,flow vast,流量固定
 button_flowvary,flow vary,flow variabel,流量可变
 button_font,font,lettertype,字体大小
-button_freqs,freqs,freqs,频率
+button_freqs,freqs,freqs,移交频率
 button_fullscreen,fullscreen,fullscreen,全屏
 button_goals,goals,doelen,目标
 button_handoff,H/O,,移交
@@ -212,7 +212,7 @@ hint_1_climb_1,Let this departure climb to {ALT} when it's safe to do so.,Laat d
 hint_1_climb_2,Let this departure climb to {ALT}.,Laat dit vliegtuig klimmen naar {ALT}.,让这架离场飞机爬升至{ALT}。
 hint_1_climb_3,Let this departure climb to {ALT}. That's all you have to do for departures.,Laat dit vliegtuig klimmen naar {ALT}. Dat is alles wat je voor departures hoeft te doen.,让这架离场飞机爬升至{ALT}。这就是您需要为离场飞机做的全部。
 hint_1_climb_4,This departing plane needs to climb above {ALT} before it reaches the airspace boundary.,Dit vertrekkende vliegtuig moet klimmen tot boven de {ALT} voordat het de rand van het luchtruim bereikt.,这架离场飞机需要在到达空域边界前爬升至{ALT}以上。
-hint_1_closed,This plane is diverting due to airspace closure. No action required.,Dit vliegtuig wijkt uit omdat het luchtruim gesloten is. Geen actie nodig.,这架飞机因空域关闭而改航。无需操作。
+hint_1_closed,This plane is diverting due to airspace closure. No action required.,Dit vliegtuig wijkt uit omdat het luchtruim gesloten is. Geen actie nodig.,这架飞机因空域关闭而备降。无需操作。
 hint_1_danger_alt,"This plane is in danger: create {ALT} difference in altitude, or divert headings.","Dit vliegtuig is in gevaar: zorg voor {ALT} verschil in hoogte, of stuur de vliegtuigen van elkaar af.",这架飞机处于危险中：创建{ALT}的高度差，或改变航向。
 hint_1_danger_area,This plane is flying in a restricted airspace. Climb or turn around.,Dit vliegtuig vliegt in een gebied met restricties. Laat het klimmen of keer het om.,这架飞机在限制空域中飞行。爬升或转向。
 hint_1_danger_cloud,This plane is flying through a thunderstorm. Avoid these clouds.,Dit vliegtuig vliegt door onweerswolken heen. Vermijd het vliegen door wolken.,这架飞机正飞过雷暴区。避开这些云层。
@@ -235,7 +235,7 @@ hint_1_estab_1,"OK, this plane is fully established on the ILS and will be autom
 hint_1_estab_2,"OK, this plane may already be handed off to the tower on frequency {FREQ}.","Ok, dit vliegtuig mag alvast naar de toren worden overgezet op frequencie {FREQ}.",好的，这架飞机可能已通过频率{FREQ}移交给塔台。
 hint_1_estab_3,"OK, this plane may already be handed off to the tower by pressing the {button_handoff} button.","Ok, dit vliegtuig mag alvast naar de toren worden overgezet door op {button_handoff} te klikken.",好的，这架飞机可能已通过按下{button_handoff}按钮移交给塔台。
 hint_1_estab_4,"OK, this plane has intercepted the localizer and waits to capture the glideslope.","Ok, dit vliegtuig heeft de localizer onderschept en het wacht totdat het ook de glideslope zal onderscheppen.",好的，这架飞机已截获航向信标，等待捕获下滑道。
-hint_1_fuel,"Oops, this plane is diverting due to low fuel.","Oeps, dit vliegtuig wijkt uit vanwege te weinig brandstof.",糟糕，这架飞机因燃油不足而改航。
+hint_1_fuel,"Oops, this plane is diverting due to low fuel.","Oeps, dit vliegtuig wijkt uit vanwege te weinig brandstof.",糟糕，这架飞机因燃油不足而备降。
 hint_1_goaround,This plane could not land; it had to go-around. Turn it around and try again.,Dit vliegtuig kon niet landen; het moest een doorstart maken. Draai het vliegtuig om en probeer het opnieuw.,这架飞机无法降落；必须复飞。转向并重试。
 hint_1_guide,"Guide this arrival to the ILS (blue line), then activate {button_ils} mode to capture it.","Begeleid dit inkomende vliegtuig naar het ILS (blauwe lijn), en activeer vervolgens {button_ils}-modus om de lijn te onderscheppen.",引导这架进场飞机至ILS（蓝线），然后激活{button_ils}模式以捕获它。
 hint_1_handoff_1,Alright! This departing plane is handed off to {ATC}.,Prima! Deze uitgaande vlucht is overgezet naar {ATC}.,好的！这架离场飞机已移交给{ATC}。
@@ -313,8 +313,8 @@ hint_2_destination_1,A plane went around due to an incorrect destination; only p
 hint_2_destination_2,A plane went around due to an incorrect destination; planes with {TAG} tag may not land at the main airport.,Een vliegtuig maakte een doorstart omdat het de verkeerde bestemming naderde: vliegtuigen met {TAG}-label mogen alleen op de hoofdluchthaven landen.,一架飞机因目的地错误而复飞；带有{TAG}标签的飞机不能在主机场降落。
 hint_2_direct_1,Direct mode off; fly on a heading.,Direct-modus uit: het vliegtuig zal de huidige koers aanhouden.,直飞模式关闭；按航向飞行。
 hint_2_direct_2,Direct to the point {FIX}.,Direct naar het punt {FIX} vliegen.,直飞至点{FIX}。
-hint_2_divert_1,"Oops, a departing plane has left the airspace at a too low altitude. The skill value is reduced by 0.5 points (diversion).","Oeps, een vertrekkend vliegtuig heeft het luchtruim verlaten op een te lage hoogte. De skill is verlaagd met 0.5 punten.",糟糕，一架离场飞机以过低高度离开了空域。技能评分减少0.5分（改航）。
-hint_2_divert_2,"Oops, an arriving plane has left the airspace. The skill value is reduced by 0.5 points (diversion).","Oeps, een inkomend vliegtuig heeft het luchtruim verlaten. De skill is verlaagd met 0.5 punten.",糟糕，一架进场飞机离开了空域。技能评分减少0.5分（改航）。
+hint_2_divert_1,"Oops, a departing plane has left the airspace at a too low altitude. The skill value is reduced by 0.5 points (diversion).","Oeps, een vertrekkend vliegtuig heeft het luchtruim verlaten op een te lage hoogte. De skill is verlaagd met 0.5 punten.",糟糕，一架离场飞机以过低高度离开了空域。技能评分减少0.5分（备降）。
+hint_2_divert_2,"Oops, an arriving plane has left the airspace. The skill value is reduced by 0.5 points (diversion).","Oeps, een inkomend vliegtuig heeft het luchtruim verlaten. De skill is verlaagd met 0.5 punten.",糟糕，一架进场飞机离开了空域。技能评分减少0.5分（备降）。
 hint_2_expedite_1,Expedite climb/descent mode: increase vertical speed.,Extra snel klimmen/dalen.,加速爬升/下降模式：增加垂直速度。
 hint_2_expedite_2,Normal rate of climb/descent.,Normaal klimmen/dalen.,正常爬升/下降速率。
 hint_2_failed_to_load,Failed to load,Laden mislukt,加载失败
@@ -820,8 +820,8 @@ menu_playtime,Playtime is {TIME}.,Speeltijd is {TIME}.,游戏时间为{TIME}。
 menu_pressure_1,Pressure,Luchtdruk,气压
 menu_rating,"If you enjoy this app, please support it by giving a rating :)","Als je deze app leuk vindt, kun je het supporten met beoordeling :)",如果您喜欢此应用，请通过评分支持它 :)
 menu_realism_1,Pilot delay,Traagheid piloten,飞行员操作延迟
-menu_reset_1,Tap current airport to reset,Druk op huidig vliegveld om te resetten,点击当前机场重置
-menu_reset_2,Click current airport to reset,Klik op huidig vliegveld om te resetten,点击当前机场重置
+menu_reset_1,Tap current airport to reset,Druk op huidig vliegveld om te resetten,点击当前机场以重置游戏
+menu_reset_2,Click current airport to reset,Klik op huidig vliegveld om te resetten,点击当前机场以重置游戏
 menu_runways_1,Your score determines the number of active runways.,Je score bepaalt het aantal actieve banen.,您的分数决定活动跑道数量。
 menu_runways_2,All runways in this configuration will be active.,Alle banen in deze configuratie zullen actief worden.,此配置中的所有跑道都将激活。
 menu_runways_3,All runways in this configuration are active.,Alle banen in deze configuratie zijn actief.,此配置中的所有跑道都已激活。
@@ -861,17 +861,17 @@ menu_weather_2,Speed,Snelheid,速度
 stats_all_goals_1,You achieved all goals!,Je hebt alle doelen behaald!,您已实现所有目标！
 stats_all_goals_2,You achieved all goals! Weather option is now unlocked in the menu.,Je hebt alle doelen behaald! Weeroptie is nu ontgrendeld in het menu.,您已实现所有目标！天气选项现已在菜单中解锁。
 stats_all_no_goals_1,Goals cannot be scored in scenario mode.,Doelen kunnen niet gescoord worden in scenariomodus.,场景模式中无法计分目标。
-stats_all_no_goals_2,Goals cannot be scored in current custom game.,Doelen kunnen niet gescoord worden in een custom spel.,当前自定义游戏中无法计分目标。
+stats_all_no_goals_2,Goals cannot be scored in current custom game.,Doelen kunnen niet gescoord worden in een custom spel.,自定义模式下无法达成目标。
 stats_continue_1,goals - tap to continue,Doelen 鈥?klik om door te gaan.,目标 - 点击继续
 stats_continue_2,goals - click to continue,Doelen 鈥?klik om door te gaan.,目标 - 点击继续
 stats_current_airport,Highest score at current airport ({AIRPORT}),Hoogste score op de huidige luchthaven ({AIRPORT}),当前机场最高分（{AIRPORT}）
 stats_current_playtime,Playtime of current session (excluding pauses) is {AMOUNT}.,Speeltijd van de huidige sessie (exclusief pauzes) is {AMOUNT},当前会话游戏时间（不包括暂停）为{AMOUNT}。
 stats_delay,1 delay,1 vertraging,1次延误
 stats_delays,{NUMBER} delays,{NUMBER} vertragingen,{NUMBER}次延误
-stats_diversion,1 diversion,1 uitwijker,1次改航
-stats_diversions,{NUMBER} diversions,{NUMBER} uitwijkers,{NUMBER}次改航
-stats_elapsedtime,elapsed time,verstreken tijd,已用时间
-stats_endurance,Endurance,Langdurig,耐力
+stats_diversion,1 diversion,1 uitwijker,1次备降
+stats_diversions,{NUMBER} diversions,{NUMBER} uitwijkers,{NUMBER}次备降
+stats_elapsedtime,elapsed time,verstreken tijd,已用时
+stats_endurance,Endurance,Langdurig,坚持不懈
 stats_endurance_goal,land {AMOUNT} planes in one game,land {AMOUNT} vliegtuigen in een spel,在一场游戏中降落{AMOUNT}架飞机
 stats_flawless,Flawless,Foutloos,完美无瑕
 stats_flawless_goal,land the first {AMOUNT} planes without any mistakes,land de eerste {AMOUNT} vliegtuigen zonder enige fouten,无任何错误降落前{AMOUNT}架飞机
@@ -887,11 +887,11 @@ stats_landing,1 landing,,1次降落
 stats_landings,{NUMBER} landings,{NUMBER} landingen,{NUMBER}次降落
 stats_overall,Highest overall score (achieved at {AIRPORT}),Hoogste score overal (behaald op {AIRPORT}),总体最高分（在{AIRPORT}实现）
 stats_plane_1,1 plane controlled by you,1 vliegtuig onder jouw leiding,1架由您控制的飞机
-stats_plane_2,1 plane in control,1 in begeleiding,1架在控制中
+stats_plane_2,1 plane in control,1 in begeleiding,1架在管飞机
 stats_planes_1,{NUMBER} planes controlled by you,{NUMBER} vliegtuigen onder jouw leiding,{NUMBER}架由您控制的飞机
-stats_planes_2,{NUMBER} planes in control,{NUMBER} in begeleiding,{NUMBER}架在控制中
+stats_planes_2,{NUMBER} planes in control,{NUMBER} in begeleiding,{NUMBER}架在管飞机
 stats_playtime,playtime,speeltijd,游戏时间
-stats_safe,Safe,Veilig,安全
+stats_safe,Safe,Veilig,安稳无虞
 stats_safe_goal,land the first {AMOUNT} planes without separation incidents,land de eerste {AMOUNT} vliegtuigen zonder separatieincidenten,无间隔事件降落前{AMOUNT}架飞机
 stats_scen_not_yet,Scenario for current airport not accomplished yet,Scenario van de huidige luchthaven is nog niet volbracht.,当前机场场景尚未完成。
 stats_scenarios_1,Scenarios completed without mistakes,Scenario鈥檚 volbracht zonder fouten,无错误完成的场景
